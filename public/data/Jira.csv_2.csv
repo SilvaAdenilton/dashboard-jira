@@ -1,0 +1,174 @@
+﻿Resumo,Chave da item,ID da item,Tipo de item,Status,Chave do projeto,Nome do projeto,Tipo de projeto,Líder do projeto,ID do líder do projeto,Descrição do projeto,Prioridade,Resolução,Responsável,ID do responsável,Relator,ID do relator,Criador,ID do criador,Criado,Atualizado(a),Última visualização,Resolvido,Data limite,Votos,Descrição,Ambiente,Seguidores,ID dos seguidores,Registro de Trabalho,Estimativa original,Estimativa de trabalho restante,Tempo gasto,Razão Trabalhada,Σ da Estimativa Original,Σ Estimativa de trabalho restante,Σ de Tempo Gasto,Nível de Segurança,Anexo,Campo personalizado (AI Eligible),Campo personalizado (Acceptance Criteria),Campo personalizado (Account),Campo personalizado (Activity Type),Campo personalizado (Affected Customers),Campo personalizado (Affected Version/s),Campo personalizado (Affected hardware),Campo personalizado (Affected services),Campo personalizado (Allocated Type),Campo personalizado (Allocation),Campo personalizado (Alocação ou realocação de responsabilidades),Campo personalizado (Ambiente),Campo personalizado (Ambiente_GDC),Campo personalizado (Amount),Campo personalizado (Análise crítica),Campo personalizado (Aplicar ação imediata?),Campo personalizado (Approval timestamp),Campo personalizado (Approval/Reproval Reason),Campo personalizado (Approvals),Campo personalizado (Aprovador),Campo personalizado (Ação Corretiva),Campo personalizado (Ação de contenção/correção),Campo personalizado (Ações Realizadas),Campo personalizado (Ações Tomadas),Campo personalizado (Backout plan),Campo personalizado (Bucket),Campo personalizado (Bug Impact),Campo personalizado (Bug origin),Campo personalizado (Build Type),Campo personalizado (CLIENTE),Campo personalizado (CPOC),Campo personalizado (Categoria),Campo personalizado (Categoria da causa),Campo personalizado (Causa Raiz_GDC),Campo personalizado (Challenge Rating),Campo personalizado (Change Reason),Campo personalizado (Change Type),Campo personalizado (Change Type),Campo personalizado (Change completion date),Campo personalizado (Change reason),Campo personalizado (Change risk),Campo personalizado (Change start date),Campo personalizado (Change type),Campo personalizado (Checklist completion percentage),Campo personalizado (Checklist completion summary),Campo personalizado (Classification),Campo personalizado (Classification),Campo personalizado (Cliente),Campo personalizado (Clientes_GDC),Campo personalizado (Cloud Reviewed),Campo personalizado (Cloud Reviewer),Campo personalizado (Comentário),Campo personalizado (Comentários),Campo personalizado (Companies),Campo personalizado (Complexidade Técnica),Campo personalizado (Component /s),Campo personalizado (Componente),Campo personalizado (Componente_GDC),Campo personalizado (Contact),Campo personalizado (Contato (e-mail ou telefone)),Campo personalizado (Contingency Plan),Campo personalizado (Controle de Projeto Fechado),Campo personalizado (Controle de Projetos_GDC),Campo personalizado (Cost Impact),Campo personalizado (Cost center),Campo personalizado (Custo),Campo personalizado (Custo),Campo personalizado (Customer Facing),Campo personalizado (D1 - Definir um time (Define a Team)),Campo personalizado (D2 - Definir Problema (Define the Problem)),Campo personalizado (D3 - Ação de Contenção (Define Containment)),Campo personalizado (D4 - Identificar Causa Raíz (Root Cause Analysis)),Campo personalizado (D5 - Listar Ações Corretivas (Permanent Corrective Actions)),Campo personalizado (D6 - Implementar e Validar Ação Corretiva (Validate Corrective Actions)),Campo personalizado (D7 - Ações de Prevenção (Preventing Recurrence)),Campo personalizado (DT Inicial DEV. Cliente),Campo personalizado (DT Inicial DEV. PD),Campo personalizado (DT Inicial DEV. Unidade),Campo personalizado (DT Inicial Pendentes),Campo personalizado (DT Inicial Progresso),Campo personalizado (Data Final),Campo personalizado (Data Inicial),Campo personalizado (Data Planejada),Campo personalizado (Data Realizada),Campo personalizado (Data da avaliação de eficácia),Campo personalizado (Data e H - Chamado),Campo personalizado (Data programada para avaliação da eficácia),Campo personalizado (Days for Approved),Campo personalizado (Days past due date),Campo personalizado (Deploy Priority),Campo personalizado (Deploy date),Campo personalizado (Descrição da causa raiz),Campo personalizado (Descrição dos resultados das ações tomadas),Campo personalizado (Descrição_GDC),Campo personalizado (Design classification),Campo personalizado (Designs ready),Campo personalizado (Development),Campo personalizado (Development Project),Campo personalizado (Discovery Phase),Campo personalizado (Disponibilidade de recursos),Campo personalizado (Distribution External),Campo personalizado (Domain),Campo personalizado (Duração Dev. Cliente),Campo personalizado (Duração Dev. PD),Campo personalizado (Duração Dev. Unidade),Campo personalizado (Duração Pendentes),Campo personalizado (Duração Progresso),Campo personalizado (ECO Description),Campo personalizado (ECO Time to Approve),Campo personalizado (EOL),Campo personalizado (EPIC relevance),Campo personalizado (Effort),"Campo personalizado (Em caso de NC de produto, preencha informações como Cliente e NS afetados)",Campo personalizado (Epic Colour),Campo personalizado (Epic Name),Campo personalizado (Epic Status),Campo personalizado (Estimated Obsolescence),Campo personalizado (Estimativa de pontos da história),Campo personalizado (Expected Result),Campo personalizado (Exposure),Campo personalizado (External Anom),Campo personalizado (Fix Version/s),Campo personalizado (Frequency),Campo personalizado (Goal impact),Campo personalizado (H - Comercial - 7 às 17),Campo personalizado (Habit),Campo personalizado (Hora de Deslocamento),Campo personalizado (Horas Trabalhadas),Campo personalizado (How-to),Campo personalizado (Ideia arquivada),Campo personalizado (Ideia arquivada em),Campo personalizado (Impact),Campo personalizado (Impact),Campo personalizado (Impact score),Campo personalizado (Impacto no Tempo),Campo personalizado (Impacto no Trabalho),Campo personalizado (Implementation plan),Campo personalizado (Incident Description),Campo personalizado (Incident Description),Campo personalizado (Incident Impact),Campo personalizado (Incident Origin),Campo personalizado (Insights),Campo personalizado (Insights impact),Campo personalizado (Investigation reason),Campo personalizado (Issue Development Finish),Campo personalizado (Issue Done),Campo personalizado (Issue Resolution Timestamp),Campo personalizado (Issue Start Development),Campo personalizado (Issue Testing Finish),Campo personalizado (Issue Testing Start),Campo personalizado (Issue color),Campo personalizado (Issue origin),Campo personalizado (Job role),Campo personalizado (Last Renew Date),Campo personalizado (Linked Issue),Campo personalizado (Locked forms),Campo personalizado (Logic Test),Campo personalizado (Líder),Campo personalizado (Major incident),Campo personalizado (Manufacturing Request Type),Campo personalizado (Material),Campo personalizado (Medição),Campo personalizado (Meio Ambiente),Campo personalizado (Meio de Comunicação),Campo personalizado (Membro 1),Campo personalizado (Membro 2),Campo personalizado (Membro 3),Campo personalizado (Membro 4),Campo personalizado (Membro 5),Campo personalizado (Motivo ),Campo personalizado (Motivo da recusa),Campo personalizado (Máquina),Campo personalizado (Mão de Obra),Campo personalizado (Método),Campo personalizado (Need TDN Label),Campo personalizado (New Structure Description),Campo personalizado (New Structure Request),Campo personalizado (Nome do Cliente),Campo personalizado (Notify via email),Campo personalizado (Numero da NF ou Declaração de conteudo),Campo personalizado (Número de Volumes),Campo personalizado (O material deve passar por inspeção?),Campo personalizado (Objetivos),Campo personalizado (Observação),Campo personalizado (Open forms),Campo personalizado (Operational categorization),Campo personalizado (Origem),Campo personalizado (Origem (PSR Supplier)),Campo personalizado (Origem_GDC),Campo personalizado (Orçamento),Campo personalizado (Other Products Affected),Campo personalizado (PCR Evaluation Lead Time),Campo personalizado (PM Approved),Campo personalizado (PM Approver),Campo personalizado (Parecer de Avaliação de eficácia ),Campo personalizado (Part Number/s and HW version/s affected),Campo personalizado (Passos para reproduzir),Campo personalizado (Pending reason),Campo personalizado (Planned end),Campo personalizado (Planned start),Campo personalizado (Portfolio),Campo personalizado (Potential Cost Impact),Campo personalizado (Potential Reach),Campo personalizado (Potential Schedule Impact),Campo personalizado (Prazo),Campo personalizado (Previsão de entrega),Campo personalizado (Prioritized by),Campo personalizado (Prioritized timestamp),Campo personalizado (Priority),Campo personalizado (Probability),Campo personalizado (Problem Classification),Campo personalizado (Problem Description),Campo personalizado (Problem Impact),Campo personalizado (Problem Impact v2),Campo personalizado (Problem Origin),Campo personalizado (Processo),Campo personalizado (Prod Description),Campo personalizado (Product Description),Campo personalizado (Product Part Number),Campo personalizado (Product Team),Campo personalizado (Product Type),Campo personalizado (Product area),Campo personalizado (Product categorization),Campo personalizado (Produto (Product)),Campo personalizado (Produto / Modulo _GDC),Campo personalizado (Progresso da entrega),Campo personalizado (Project),Campo personalizado (Project key),Campo personalizado (Project of origin),Campo personalizado (Project official docs),Campo personalizado (Project overview key),Campo personalizado (Project overview status),Campo personalizado (Projeto),Campo personalizado (Projeto da Atlassian),Campo personalizado (Proposed Material Disposition),Campo personalizado (Public description),Campo personalizado (Quantidade),Campo personalizado (Quantity),Campo personalizado (Quarters),Campo personalizado (R&D Request Type),Campo personalizado (R&D area),Campo personalizado (RDSR: Issue development finished),Campo personalizado (Rank),Campo personalizado (Realization),Campo personalizado (Reanalysis Date),Campo personalizado (Referência),Campo personalizado (Reject_count),Campo personalizado (Replicon),Campo personalizado (Reporting timestamp),Campo personalizado (Reporting tool),Campo personalizado (Request Customer),Campo personalizado (Request Description),Campo personalizado (Request Origin),Campo personalizado (Request Type),Campo personalizado (Request language),Campo personalizado (Request participants),Campo personalizado (Requested Team),Campo personalizado (Required qa test),Campo personalizado (Requires documentation review),Campo personalizado (Residual Exposure),Campo personalizado (Residual Impact),Campo personalizado (Residual Probability),Campo personalizado (Resolved sprint),Campo personalizado (Responders),Campo personalizado (Responsible),Campo personalizado (Responsável ação de contenção),Campo personalizado (Reviewed by support team timestamp),Campo personalizado (Rework Finish Goods),Campo personalizado (Riscos e oportunidades),Campo personalizado (Risk Scope Area),Campo personalizado (Roadmap),Campo personalizado (Root cause),Campo personalizado (Run Automation),Campo personalizado (SLA),Campo personalizado (SLA - Certification Execution),Campo personalizado (SLA - Entrega),Campo personalizado (SLA - Entrega - Consultoria),Campo personalizado (SLA - Geral),Campo personalizado (SLA - Hexagon),Campo personalizado (SLA - P&D),Campo personalizado (SLA - PCR Approval),Campo personalizado (SLA - PCR Certification Execution),Campo personalizado (SLA - PCR Evaluation),Campo personalizado (SLA - Raízen),Campo personalizado (SLA - Severidade),Campo personalizado (SLA - Suporte),Campo personalizado (SLA - TDN Review and Approval),Campo personalizado (SOW Number),Campo personalizado (SW Approved),Campo personalizado (SW Approver),Campo personalizado (Safety/Cybersecurity),Classificação de satisfação,Campo personalizado (Satisfaction),Campo personalizado (Satisfaction date),Campo personalizado (Schedule/ Resource Impact),Campo personalizado (Sentiment),Campo personalizado (Setor),Campo personalizado (Severidade),Campo personalizado (Severidade (Severity)),Campo personalizado (Severity),Campo personalizado (Short description),Campo personalizado (Solicitação Predial),Campo personalizado (Solicitação TI),Campo personalizado (Solution),Campo personalizado (Solved timestamp),Campo personalizado (Source),Campo personalizado (Source),Campo personalizado (Spec ready),Campo personalizado (Start date),Campo personalizado (Status da entrega),Campo personalizado (Status do Projeto da Atlassian),Campo personalizado (Steps to Reproduce),Campo personalizado (Story Description),Campo personalizado (Story Points),Campo personalizado (Submitted forms),Campo personalizado (Summary),Campo personalizado (TDN Description),Campo personalizado (TDN Type),Campo personalizado (Target end),Campo personalizado (Target start),Campo personalizado (Team),Campo personalizado (Team RAO),Campo personalizado (Tema_GDC),Campo personalizado (Tempo Atendimento - Crítico),Campo personalizado (Tempo Atendimento Entrega),Campo personalizado (Tempo Cliente),Campo personalizado (Tempo Total),Campo personalizado (Tempo de Atendimento),Campo personalizado (Tempo de Suporte),Campo personalizado (Tempo de avaliação),Campo personalizado (Tempo para Atendimento),Campo personalizado (Tempo para Atendimento - Raízen),Campo personalizado (Tempo total do Chamado),Campo personalizado (Test objective),Campo personalizado (Test plan),Campo personalizado (Test result),Campo personalizado (Tickets vinculados),Campo personalizado (Time de trabalho),Campo personalizado (Time for avaliation),Campo personalizado (Time to Approve),Campo personalizado (Time to Arrival),Campo personalizado (Time to Execute),Campo personalizado (Time to approve normal change),Campo personalizado (Time to close after resolution),Campo personalizado (Time to done),Campo personalizado (Time to first response),Campo personalizado (Time to resolution),Campo personalizado (Tipo (Issue Type)),Campo personalizado (Tipo (Issue Type)),Campo personalizado (Tipo da não conformidade),Campo personalizado (Tipo de Não conformidade),Campo personalizado (Tipo_Projeto_GDC),Campo personalizado (Tipo_Serviço_GDC),Campo personalizado (Total forms),Campo personalizado (Trac Issue),Campo personalizado (Transition to Review Date),Campo personalizado (Transportadora),Campo personalizado (Treatment),Campo personalizado (Treatment Plan),Campo personalizado (UNIDADE),Campo personalizado (Unidade),Campo personalizado (Unidade Operacional Resolveria),Campo personalizado (Unidade de negócio),Campo personalizado (Unidade de negõcios),Campo personalizado (Urgency),Campo personalizado (Urgency),Campo personalizado (User Story),Campo personalizado (V&V Approved),Campo personalizado (V&V Approver),Campo personalizado (V&V Platform),Campo personalizado (Validated by SQA),Campo personalizado (Validation History),Campo personalizado (Validation Records),Campo personalizado (Vendor),Campo personalizado (Verification Criteria),Campo personalizado (Verified by SQA),Campo personalizado (Vulnerability),Campo personalizado (WIP for Removal),Campo personalizado (Work category),Campo personalizado (Workaround),Campo personalizado (Workaround Type),Campo personalizado ([CHART] Date of First Response),Campo personalizado ([CHART] Time in Status),Campo personalizado (time in status),Campo personalizado (Áreas de foco),Comentar,Categoria do status,Categoria do status alterada
+6.800 - Legenda Data/Hora não está coerente no AS de Plantio,UNF2026-18,166987,Tarefa,Dev.PD,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,13/jan/26 4:33 PM,21/fev/26 9:06 AM,,,,0,"h3. 📌 *Tipo*
+
+Bug / Inconsistência de Interface
+
+----
+
+h3. 📝 *Descrição*
+
+A legenda *Data/Hora* apresentada no *AS ) de Plantio* não está coerente com as informações exibidas no mapa/dados operacionais.
+
+Atualmente, a legenda indica um horário/data que *não corresponde* ao período real dos registros apresentados, o que pode gerar interpretação incorreta da operação de plantio.
+
+----
+
+h3. 🔍 *Cenário observado*
+
+* Módulo: *AS Plantio*
+* Campo afetado: *Legenda Data/Hora*
+* Comportamento atual:
+** A legenda exibe Data/Hora divergente dos dados reais
+* Comportamento esperado:
+** A legenda deve refletir corretamente o *intervalo de Data/Hora* dos dados carregados no AS. Plantio
+
+----
+
+h3. ✅ *Resultado esperado*
+
+* A legenda *Data/Hora* deve:
+** Estar alinhada com os dados exibidos no mapa/tabela
+** Considerar corretamente timezone e origem do dado
+** Atualizar dinamicamente conforme filtros aplicados (se houver)
+
+----
+
+h3. ⚠️ *Impacto*
+
+* Pode gerar:
+** Erro de interpretação operacional
+** Dificuldade na validação do serviço de plantio
+** Questionamentos por parte do cliente
+
+----
+
+h3. 🧪 *Evidências*
+
+* ( ) Screenshot do AS
+
+----
+
+h3. 📎 *Observações adicionais*
+
+Verificar:
+
+* Conversão de timezone
+* Fonte da Data/Hora utilizada na legenda
+* Diferença entre horário do dado bruto vs horário processado
+
+h3. *Ações :*      
+
+Abtero o GDC 13/01/2026 às 16:46",,Adenilton Silva,633212a0fedc6169aed6fd7c,;13/jan/26 4:46 PM;633212a0fedc6169aed6fd7c;1200,,0,1200,,,0,1200,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@678e0e48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,,13/jan/26 4:45 PM,,,,13/jan/26 4:30 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,Análise e Diagnóstico de Bugs na Plataforma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03kj2:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.800,Não,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,13/jan/26 4:46 PM
+6.800 - GDC-17110,UNF2026-167,181601,Tarefa,Dev.PD,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,25/mar/26 9:18 AM,25/mar/26 9:18 AM,,,,0,"Foi aberto o chamado [GDC-17110|https://agguidance.atlassian.net/servicedesk/customer/portal/3/GDC-17110], para regularização da padronização de nomenclaturas de estruturas.",,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@353da214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,25/mar/26 9:18 AM,,25/mar/26 9:16 AM,25/mar/26 9:18 AM,,25/mar/26 9:18 AM,,,,25/mar/26 9:16 AM,,,,,,,,,,,{},,,,,,,,,2.0,0.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i0411u:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.800,Não,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,25/mar/26 9:18 AM
+6.800 - Desvincular Terceiros de Função,UNF2026-178,182763,Tarefa,Dev.PD,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,31/mar/26 9:02 AM,31/mar/26 9:04 AM,,,,0,"Foi criado o [GDC-1712|https://agguidance.atlassian.net/servicedesk/customer/portal/3/GDC-17125], para desvincularem terceiros de funções, ja tinhamos um chamado em aberto. ",,Adenilton Silva,633212a0fedc6169aed6fd7c,,3600,3600,,0%,3600,3600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@266359ef,,,,Aberto chamado para direcionamento ou ajuste.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,31/mar/26 9:04 AM,,31/mar/26 9:01 AM,31/mar/26 9:02 AM,,31/mar/26 9:02 AM,,,,31/mar/26 9:01 AM,,,,,,,,,,,{},,,,,,,,,1.0,2.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i04242:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.800,Sim,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,31/mar/26 9:02 AM
+6.400 - Análise de arquivos com erro na plataforma OM ,UNF2026-192,184342,Tarefa,DV. Unidade,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,08/abr/26 5:04 PM,15/abr/26 8:12 AM,11/mai/26 9:10 AM,,,0,"Solicitação de análise de arquivos que estão apresentando erro na plataforma OM - Cliente Cenibra.
+
+*Contexto Técnico:*
+O coordenador Flavio Silva reportou a existência de arquivos com falha no processamento dentro da plataforma OM, sendo necessário identificar a causa dos erros e possíveis inconsistências nos dados ou no fluxo de ingestão.
+
+*Objetivo:*
+Identificar a origem dos erros nos arquivos processados na OM e propor ou aplicar as correções necessárias para normalização do processamento.
+
+*Ações Técnicas:*
+
+* Levantar os arquivos com status de erro na OM
+* Analisar logs de processamento (uploaded_files / file_applications)
+* Validar integridade dos arquivos (formato, estrutura, conteúdo)
+* Verificar associação de dispositivos, produtores e provedores
+* Identificar se há falhas sistêmicas ou dados inconsistentes
+* Realizar reprocessamento, se necessário (normal ou avançado)",,Adenilton Silva,633212a0fedc6169aed6fd7c,,3600,3600,,0%,3600,3600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@45cad0ec,,,,"Foram identificadas várias funções que estavam inativas, e estão ativadas.
+
+Foi baixada a tabela e enviada a unidade responsável, para estar pontuando para nós ajustarmos.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,08/abr/26 5:28 PM,08/abr/26 5:01 PM,08/abr/26 5:04 PM,,08/abr/26 5:04 PM,,,,08/abr/26 5:01 PM,,,,,,,,,,,{},,,,,,,,,3.0,24.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - Grupo,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i043n6:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.400,Talvez,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,08/abr/26 5:04 PM
+Área Efetiva - OM,UNF2026-143,179682,Tarefa,Dev.PD,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Roniel Dias,60dc6c037d016900702ba63d,Roniel Dias,60dc6c037d016900702ba63d,13/mar/26 9:38 AM,15/abr/26 8:22 AM,,,,0,"Verificar regras necessárias para calculo de área efetiva no OM
+
+!image-20260313-123815.png|width=315,alt=""image-20260313-123815.png""!",,Roniel Dias,60dc6c037d016900702ba63d,,,,,,,,,,13/mar/26 9:38 AM;ug:2126caef-0ff0-4d14-9145-c218d77df147;image-20260313-123815.png;https://agguidance.atlassian.net/rest/api/3/attachment/content/168478,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@38aa7432,,,,"Feito contato com Samuel Ferreira, resposável por dertiminados ajustes, aguardando um retorno do mesmo.
+
+Estão em processo de Melhorias.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,26/mar/26 10:31 AM,,13/mar/26 9:36 AM,26/mar/26 10:29 AM,,26/mar/26 10:29 AM,,,,13/mar/26 9:36 AM,,,,,,,,,,,{},,,,,,,,,18773.0,2.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Outros,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03ybi:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,13/mar/26 9:38 AM
+6.400 - Migração dos mapas e relatórios SWS para plataforma OM – Atualização da base Faber-Castell ,UNF2026-181,183081,Tarefa,Dev. Cliente,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,01/abr/26 11:12 AM,15/abr/26 8:26 AM,11/mai/26 9:08 AM,,,0,"A migração dos dados da Faber-Castell da plataforma *SWS* para o *OM* está em andamento. Conforme comunicado pelo time Florestal da Hexagon, o SWS será descontinuado em breve, sendo necessário garantir que toda a base esteja atualizada e alinhada com os requisitos do OM.
+
+*Demandas recebidas:*
+A Faber-Castell enviou os arquivos solicitados para possibilitar a migração:
+
+* *Base cartográfica (Shapefile)* conforme especificações técnicas: projeção *WGS84 – EPSG:4326*, presença dos arquivos {{.shp}}, {{.shx}}, {{.dbf}}, {{.prj}} e campos obrigatórios (FAZENDA, TALHAO, CDFAZENDA).
+* *Códigos de atividades e motivos de parada* organizados em planilhas Excel.
+
+*Status atual:*
+
+* Faber-Castell confirmou envio de todos os documentos solicitados.
+* É necessário validar se a *base está completa* e, se estiver conforme, prosseguir com a atualização do banco e com a migração.
+
+h2. ✅ *Tarefas / Checklist*
+
+* Validar a integridade da base cartográfica enviada.
+* Verificar se todos os atributos obrigatórios estão presentes.
+* Conferir tabelas de códigos de atividades e paradas.
+* Atualizar banco de dados do OM com as informações aprovadas.
+* Realizar testes de migração.
+* Confirmar com Faber-Castell conclusão e disponibilidade no OM.
+
+h2. ✅ *Anexos relacionados ao ticket*
+
+* _Códigos de atividades e motivos de paradas.xlsx_
+* _motivos de paradas por categoria (2).xlsx_
+* _Cad_Mapa_Formato.pdf_
+* _Parques FC.zip_
+
+_(Todos extraídos das mensagens citadas no thread original.)_",,Adenilton Silva,633212a0fedc6169aed6fd7c,;02/abr/26 10:12 AM;633212a0fedc6169aed6fd7c;1380,5400,4020,1380,25%,5400,4020,1380,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@43505f94,,,,"* Dados não atendem as premissas solicitadas.
+* Aguardando retorno do cliente com o material correto.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15/abr/26 8:25 AM,02/abr/26 4:18 PM,02/abr/26 4:18 PM,01/abr/26 10:30 AM,02/abr/26 9:57 AM,,02/abr/26 9:57 AM,,,,01/abr/26 10:30 AM,,,,,,,,,,,{},,,,,,18614.0,18247.0,0.0,1407.0,14.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i042ea:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.400,,,,,,,,,,,,,,,,,,,,,,,,,02/abr/26 4:18 PM;633212a0fedc6169aed6fd7c;Dev. Cliente + 367,Em andamento,01/abr/26 11:12 AM
+6.600 - Reprocessamento do display 23700 ,UNF2026-210,186469,Tarefa,Dev.PD,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,17/abr/26 8:27 AM,17/abr/26 11:50 AM,,,,0,"O técnico Antonio Jardel solicitou apoio para exclusão e relançamento dos dados do display 23700.
+
+*Contexto Técnico:*
+Os dados do display 23700 apresentam inconsistências, sendo necessário realizar a exclusão dos registros atuais para posterior reprocessamento correto.
+
+*Objetivo:*
+Garantir que os dados do display 23700 sejam processados corretamente no sistema, eliminando inconsistências existentes.
+
+*Ações Técnicas:*
+
+* Validar os dados atualmente processados do display 23700
+* Realizar a exclusão dos registros vinculados ao display
+* Executar o relançamento/reprocessamento dos arquivos
+* Validar se os dados foram processados corretamente após o reenvio
+
+*Critério de Encerramento:*
+Dados do display 23700 reprocessados com sucesso, sem inconsistências, e validados em sistema.",,Adenilton Silva,633212a0fedc6169aed6fd7c,,1800,1800,,0%,1800,1800,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@43afee9,,,,"Plataforma OM, está instável, não sendo possível o envio e exclusão  de dados.
+
+Aguardando Retorno PD",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,17/abr/26 11:49 AM,,17/abr/26 8:26 AM,17/abr/26 8:27 AM,,17/abr/26 8:27 AM,,,,17/abr/26 8:26 AM,,,,,,,,,,,{},,,,,,,,,1.0,202.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i045du:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.600,Sim,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,17/abr/26 8:27 AM
+6.500 - Cadastro da Fazenda Paranapitanga na plataforma ,UNF2026-218,188198,Tarefa,Dev. Cliente,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,24/abr/26 4:48 PM,24/abr/26 5:24 PM,07/mai/26 10:59 AM,,,0,"Solicitação de cadastro da *Fazenda Paranapitanga* na plataforma Hexagon para viabilizar a geração de mapas e o fechamento das atividades operacionais da Suzano.
+
+O cadastro *não deve ser feito de forma isolada*, pois novas atualizações de base inativam automaticamente a base anterior. Já ocorreram casos em MS e SP em que fazendas enviadas separadamente foram desativadas por não constarem na base mais recente.
+
+Dessa forma, o cadastro deve ser realizado *junto com a base completa da Suzano*, com o envolvimento do *time responsável pelo GEO*, garantindo que a fazenda permaneça *ativa e integrada* nas próximas atualizações.
+
+h3. *Escopo / Ações necessárias*
+
+* Validar o envio da Fazenda Paranapitanga na *base completa da Suzano*
+* Envolver o *time GEO Suzano* no processo
+* Garantir que a fazenda permaneça *ativa após futuras atualizações de base*
+* Evitar cadastro isolado fora do fluxo padrão
+
+h3. *Anexos*
+
+* KMZ/KML e PDFs das áreas Paranapitanga I e II (conforme e-mail)
+
+h3. *Prioridade*
+
+Média",,Adenilton Silva,633212a0fedc6169aed6fd7c,;24/abr/26 5:24 PM;633212a0fedc6169aed6fd7c;1200,3600,2400,1200,33%,3600,2400,1200,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@568a3b85,,,,"Arquivos que foram enviados para cadastros estão divergentes.
+
+Retornado o e-mail para o cliente.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,24/abr/26 5:24 PM,,,24/abr/26 4:46 PM,24/abr/26 5:05 PM,,24/abr/26 5:05 PM,,,,24/abr/26 4:46 PM,,,,,,,,,,,{},,,,,,,,,19.0,19.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i046rs:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,24/abr/26 4:48 PM
+6.400 - Cadastro da base cartográfica Aperam – Área Produtiva atualizada ,UNF2026-230,189954,Tarefa,Dev. Cliente,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,05/mai/26 11:02 AM,05/mai/26 12:01 PM,11/mai/26 12:19 PM,,,0,"Foi recebida da *Aperam* a camada *shapefile de Área Produtiva*, devidamente atualizada e com todos os atributos preenchidos, confirmada como a *base correta para cadastro operacional* na plataforma, contemplando apenas áreas com ocorrência de operações.
+
+Pontos principais:
+
+* A camada *Área Produtiva* é a única a ser utilizada para o cadastro.
+* A definição do atributo que representa *“Fazenda”* ainda depende de validação com o time de Silvicultura, sob responsabilidade do Romario Emiliano Barbosa Olimpo.
+* A base enviada já considera a correção de registros anteriormente identificados sem preenchimento de atributos.
+
+*Próximos passos:*
+
+* Aguardar confirmação do atributo “Fazenda”.
+* Realizar o tratamento final e efetuar o *cadastro da nova base cartográfica na plataforma*.
+
+*Anexo:*
+
+* [shp_area_produtiva.zip|https://outlook.office365.com/owa/?viewmodel=IAttachmentViewModelPopoutFactory&AttachmentId=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ_psOrTZX-s0SR2rwgBwCxubeHrBb6TrH5trr1i-WQAAAAAAEMAACxubeHrBb6TrH5trr1i-WQAAU6ePB9AAABEgAQADZL3b4Wx0hMi29MsoIjPDI=&ItemId=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ+psOrTZX/s0SR2rwgBwCxubeHrBb6TrH5trr1i/WQAAAAAAEMAACxubeHrBb6TrH5trr1i/WQAAU6ePB9AAA=&AttachmentName=shp_area_produtiva.zip&EntityRepresentationId=64ffa775-1097-4be3-ab06-1b89b6d5bfee]",,Adenilton Silva,633212a0fedc6169aed6fd7c,;05/mai/26 12:01 PM;633212a0fedc6169aed6fd7c;2400,7200,4800,2400,33%,7200,4800,2400,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@605f472f,,,,"Pendentes algumas informações cadastrais, solicitado para cliente e aguardando retorno.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,05/mai/26 12:01 PM,,,05/mai/26 11:00 AM,05/mai/26 11:02 AM,,05/mai/26 11:02 AM,,,,05/mai/26 11:00 AM,,,,,,,,,,,{},,,,,,,,,2.0,59.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i048bs:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.400,Sim,,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,05/mai/26 11:02 AM

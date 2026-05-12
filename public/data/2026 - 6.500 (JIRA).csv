@@ -1,0 +1,805 @@
+﻿Resumo,Chave da item,ID da item,Tipo de item,Status,Chave do projeto,Nome do projeto,Tipo de projeto,Líder do projeto,ID do líder do projeto,Descrição do projeto,Prioridade,Resolução,Responsável,ID do responsável,Relator,ID do relator,Criador,ID do criador,Criado,Atualizado(a),Última visualização,Resolvido,Data limite,Votos,Descrição,Ambiente,Seguidores,ID dos seguidores,Registro de Trabalho,Registro de Trabalho,Estimativa original,Estimativa de trabalho restante,Tempo gasto,Razão Trabalhada,Σ da Estimativa Original,Σ Estimativa de trabalho restante,Σ de Tempo Gasto,Nível de Segurança,Anexo,Anexo,Campo personalizado (AI Eligible),Campo personalizado (Acceptance Criteria),Campo personalizado (Account),Campo personalizado (Activity Type),Campo personalizado (Affected Customers),Campo personalizado (Affected Version/s),Campo personalizado (Affected hardware),Campo personalizado (Affected services),Campo personalizado (Allocated Type),Campo personalizado (Allocation),Campo personalizado (Alocação ou realocação de responsabilidades),Campo personalizado (Ambiente),Campo personalizado (Ambiente_GDC),Campo personalizado (Amount),Campo personalizado (Análise crítica),Campo personalizado (Aplicar ação imediata?),Campo personalizado (Approval timestamp),Campo personalizado (Approval/Reproval Reason),Campo personalizado (Approvals),Campo personalizado (Aprovador),Campo personalizado (Ação Corretiva),Campo personalizado (Ação de contenção/correção),Campo personalizado (Ações Realizadas),Campo personalizado (Ações Tomadas),Campo personalizado (Backout plan),Campo personalizado (Bucket),Campo personalizado (Bug Impact),Campo personalizado (Bug origin),Campo personalizado (Build Type),Campo personalizado (CLIENTE),Campo personalizado (CPOC),Campo personalizado (Categoria),Campo personalizado (Categoria da causa),Campo personalizado (Causa Raiz_GDC),Campo personalizado (Challenge Rating),Campo personalizado (Change Reason),Campo personalizado (Change Type),Campo personalizado (Change Type),Campo personalizado (Change completion date),Campo personalizado (Change reason),Campo personalizado (Change risk),Campo personalizado (Change start date),Campo personalizado (Change type),Campo personalizado (Checklist completion percentage),Campo personalizado (Checklist completion summary),Campo personalizado (Classification),Campo personalizado (Classification),Campo personalizado (Cliente),Campo personalizado (Clientes_GDC),Campo personalizado (Cloud Reviewed),Campo personalizado (Cloud Reviewer),Campo personalizado (Comentário),Campo personalizado (Comentários),Campo personalizado (Companies),Campo personalizado (Complexidade Técnica),Campo personalizado (Complexidade Técnica),Campo personalizado (Component /s),Campo personalizado (Componente),Campo personalizado (Componente_GDC),Campo personalizado (Contact),Campo personalizado (Contato (e-mail ou telefone)),Campo personalizado (Contingency Plan),Campo personalizado (Controle de Projeto Fechado),Campo personalizado (Controle de Projetos_GDC),Campo personalizado (Cost Impact),Campo personalizado (Cost center),Campo personalizado (Custo),Campo personalizado (Custo),Campo personalizado (Customer Facing),Campo personalizado (D1 - Definir um time (Define a Team)),Campo personalizado (D2 - Definir Problema (Define the Problem)),Campo personalizado (D3 - Ação de Contenção (Define Containment)),Campo personalizado (D4 - Identificar Causa Raíz (Root Cause Analysis)),Campo personalizado (D5 - Listar Ações Corretivas (Permanent Corrective Actions)),Campo personalizado (D6 - Implementar e Validar Ação Corretiva (Validate Corrective Actions)),Campo personalizado (D7 - Ações de Prevenção (Preventing Recurrence)),Campo personalizado (DT Inicial DEV. Cliente),Campo personalizado (DT Inicial DEV. PD),Campo personalizado (DT Inicial DEV. Unidade),Campo personalizado (DT Inicial Pendentes),Campo personalizado (DT Inicial Progresso),Campo personalizado (Data Final),Campo personalizado (Data Inicial),Campo personalizado (Data Planejada),Campo personalizado (Data Realizada),Campo personalizado (Data da avaliação de eficácia),Campo personalizado (Data e H - Chamado),Campo personalizado (Data programada para avaliação da eficácia),Campo personalizado (Days for Approved),Campo personalizado (Days past due date),Campo personalizado (Deploy Priority),Campo personalizado (Deploy date),Campo personalizado (Descrição da causa raiz),Campo personalizado (Descrição dos resultados das ações tomadas),Campo personalizado (Descrição_GDC),Campo personalizado (Design classification),Campo personalizado (Designs ready),Campo personalizado (Development),Campo personalizado (Development Project),Campo personalizado (Discovery Phase),Campo personalizado (Disponibilidade de recursos),Campo personalizado (Distribution External),Campo personalizado (Domain),Campo personalizado (Duração Dev. Cliente),Campo personalizado (Duração Dev. PD),Campo personalizado (Duração Dev. Unidade),Campo personalizado (Duração Pendentes),Campo personalizado (Duração Progresso),Campo personalizado (ECO Description),Campo personalizado (ECO Time to Approve),Campo personalizado (EOL),Campo personalizado (EPIC relevance),Campo personalizado (Effort),"Campo personalizado (Em caso de NC de produto, preencha informações como Cliente e NS afetados)",Campo personalizado (Epic Colour),Campo personalizado (Epic Name),Campo personalizado (Epic Status),Campo personalizado (Estimated Obsolescence),Campo personalizado (Estimativa de pontos da história),Campo personalizado (Expected Result),Campo personalizado (Exposure),Campo personalizado (External Anom),Campo personalizado (Fix Version/s),Campo personalizado (Frequency),Campo personalizado (Goal impact),Campo personalizado (H - Comercial - 7 às 17),Campo personalizado (Habit),Campo personalizado (Hora de Deslocamento),Campo personalizado (Horas Trabalhadas),Campo personalizado (How-to),Campo personalizado (Ideia arquivada),Campo personalizado (Ideia arquivada em),Campo personalizado (Impact),Campo personalizado (Impact),Campo personalizado (Impact score),Campo personalizado (Impacto no Tempo),Campo personalizado (Impacto no Trabalho),Campo personalizado (Implementation plan),Campo personalizado (Incident Description),Campo personalizado (Incident Description),Campo personalizado (Incident Impact),Campo personalizado (Incident Origin),Campo personalizado (Insights),Campo personalizado (Insights impact),Campo personalizado (Investigation reason),Campo personalizado (Issue Development Finish),Campo personalizado (Issue Done),Campo personalizado (Issue Resolution Timestamp),Campo personalizado (Issue Start Development),Campo personalizado (Issue Testing Finish),Campo personalizado (Issue Testing Start),Campo personalizado (Issue color),Campo personalizado (Issue origin),Campo personalizado (Job role),Campo personalizado (Last Renew Date),Campo personalizado (Linked Issue),Campo personalizado (Locked forms),Campo personalizado (Logic Test),Campo personalizado (Líder),Campo personalizado (Major incident),Campo personalizado (Manufacturing Request Type),Campo personalizado (Material),Campo personalizado (Medição),Campo personalizado (Meio Ambiente),Campo personalizado (Meio de Comunicação),Campo personalizado (Meio de Comunicação),Campo personalizado (Meio de Comunicação),Campo personalizado (Membro 1),Campo personalizado (Membro 2),Campo personalizado (Membro 3),Campo personalizado (Membro 4),Campo personalizado (Membro 5),Campo personalizado (Motivo ),Campo personalizado (Motivo da recusa),Campo personalizado (Máquina),Campo personalizado (Mão de Obra),Campo personalizado (Método),Campo personalizado (Need TDN Label),Campo personalizado (New Structure Description),Campo personalizado (New Structure Request),Campo personalizado (Nome do Cliente),Campo personalizado (Notify via email),Campo personalizado (Numero da NF ou Declaração de conteudo),Campo personalizado (Número de Volumes),Campo personalizado (O material deve passar por inspeção?),Campo personalizado (Objetivos),Campo personalizado (Observação),Campo personalizado (Open forms),Campo personalizado (Operational categorization),Campo personalizado (Origem),Campo personalizado (Origem (PSR Supplier)),Campo personalizado (Origem_GDC),Campo personalizado (Orçamento),Campo personalizado (Other Products Affected),Campo personalizado (PCR Evaluation Lead Time),Campo personalizado (PM Approved),Campo personalizado (PM Approver),Campo personalizado (Parecer de Avaliação de eficácia ),Campo personalizado (Part Number/s and HW version/s affected),Campo personalizado (Passos para reproduzir),Campo personalizado (Pending reason),Campo personalizado (Planned end),Campo personalizado (Planned start),Campo personalizado (Portfolio),Campo personalizado (Potential Cost Impact),Campo personalizado (Potential Reach),Campo personalizado (Potential Schedule Impact),Campo personalizado (Prazo),Campo personalizado (Previsão de entrega),Campo personalizado (Prioritized by),Campo personalizado (Prioritized timestamp),Campo personalizado (Priority),Campo personalizado (Probability),Campo personalizado (Problem Classification),Campo personalizado (Problem Description),Campo personalizado (Problem Impact),Campo personalizado (Problem Impact v2),Campo personalizado (Problem Origin),Campo personalizado (Processo),Campo personalizado (Prod Description),Campo personalizado (Product Description),Campo personalizado (Product Part Number),Campo personalizado (Product Team),Campo personalizado (Product Type),Campo personalizado (Product area),Campo personalizado (Product categorization),Campo personalizado (Produto (Product)),Campo personalizado (Produto / Modulo _GDC),Campo personalizado (Progresso da entrega),Campo personalizado (Project),Campo personalizado (Project key),Campo personalizado (Project of origin),Campo personalizado (Project official docs),Campo personalizado (Project overview key),Campo personalizado (Project overview status),Campo personalizado (Projeto),Campo personalizado (Projeto da Atlassian),Campo personalizado (Proposed Material Disposition),Campo personalizado (Public description),Campo personalizado (Quantidade),Campo personalizado (Quantity),Campo personalizado (Quarters),Campo personalizado (R&D Request Type),Campo personalizado (R&D area),Campo personalizado (RDSR: Issue development finished),Campo personalizado (Rank),Campo personalizado (Realization),Campo personalizado (Reanalysis Date),Campo personalizado (Referência),Campo personalizado (Reject_count),Campo personalizado (Replicon),Campo personalizado (Reporting timestamp),Campo personalizado (Reporting tool),Campo personalizado (Request Customer),Campo personalizado (Request Description),Campo personalizado (Request Origin),Campo personalizado (Request Type),Campo personalizado (Request language),Campo personalizado (Request participants),Campo personalizado (Requested Team),Campo personalizado (Required qa test),Campo personalizado (Requires documentation review),Campo personalizado (Residual Exposure),Campo personalizado (Residual Impact),Campo personalizado (Residual Probability),Campo personalizado (Resolved sprint),Campo personalizado (Responders),Campo personalizado (Responsible),Campo personalizado (Responsável ação de contenção),Campo personalizado (Reviewed by support team timestamp),Campo personalizado (Rework Finish Goods),Campo personalizado (Riscos e oportunidades),Campo personalizado (Risk Scope Area),Campo personalizado (Roadmap),Campo personalizado (Root cause),Campo personalizado (Run Automation),Campo personalizado (SLA),Campo personalizado (SLA - Certification Execution),Campo personalizado (SLA - Entrega),Campo personalizado (SLA - Entrega - Consultoria),Campo personalizado (SLA - Geral),Campo personalizado (SLA - Hexagon),Campo personalizado (SLA - P&D),Campo personalizado (SLA - PCR Approval),Campo personalizado (SLA - PCR Certification Execution),Campo personalizado (SLA - PCR Evaluation),Campo personalizado (SLA - Raízen),Campo personalizado (SLA - Severidade),Campo personalizado (SLA - Suporte),Campo personalizado (SLA - TDN Review and Approval),Campo personalizado (SOW Number),Campo personalizado (SW Approved),Campo personalizado (SW Approver),Campo personalizado (Safety/Cybersecurity),Classificação de satisfação,Campo personalizado (Satisfaction),Campo personalizado (Satisfaction date),Campo personalizado (Schedule/ Resource Impact),Campo personalizado (Sentiment),Campo personalizado (Setor),Campo personalizado (Severidade),Campo personalizado (Severidade (Severity)),Campo personalizado (Severity),Campo personalizado (Short description),Campo personalizado (Solicitação Predial),Campo personalizado (Solicitação TI),Campo personalizado (Solution),Campo personalizado (Solved timestamp),Campo personalizado (Source),Campo personalizado (Source),Campo personalizado (Spec ready),Campo personalizado (Start date),Campo personalizado (Status da entrega),Campo personalizado (Status do Projeto da Atlassian),Campo personalizado (Steps to Reproduce),Campo personalizado (Story Description),Campo personalizado (Story Points),Campo personalizado (Submitted forms),Campo personalizado (Summary),Campo personalizado (TDN Description),Campo personalizado (TDN Type),Campo personalizado (Target end),Campo personalizado (Target start),Campo personalizado (Team),Campo personalizado (Team RAO),Campo personalizado (Tema_GDC),Campo personalizado (Tempo Atendimento - Crítico),Campo personalizado (Tempo Atendimento Entrega),Campo personalizado (Tempo Cliente),Campo personalizado (Tempo Total),Campo personalizado (Tempo de Atendimento),Campo personalizado (Tempo de Suporte),Campo personalizado (Tempo de avaliação),Campo personalizado (Tempo para Atendimento),Campo personalizado (Tempo para Atendimento - Raízen),Campo personalizado (Tempo total do Chamado),Campo personalizado (Test objective),Campo personalizado (Test plan),Campo personalizado (Test result),Campo personalizado (Tickets vinculados),Campo personalizado (Time de trabalho),Campo personalizado (Time for avaliation),Campo personalizado (Time to Approve),Campo personalizado (Time to Arrival),Campo personalizado (Time to Execute),Campo personalizado (Time to approve normal change),Campo personalizado (Time to close after resolution),Campo personalizado (Time to done),Campo personalizado (Time to first response),Campo personalizado (Time to resolution),Campo personalizado (Tipo (Issue Type)),Campo personalizado (Tipo (Issue Type)),Campo personalizado (Tipo da não conformidade),Campo personalizado (Tipo de Não conformidade),Campo personalizado (Tipo_Projeto_GDC),Campo personalizado (Tipo_Serviço_GDC),Campo personalizado (Total forms),Campo personalizado (Trac Issue),Campo personalizado (Transition to Review Date),Campo personalizado (Transportadora),Campo personalizado (Treatment),Campo personalizado (Treatment Plan),Campo personalizado (UNIDADE),Campo personalizado (Unidade),Campo personalizado (Unidade Operacional Resolveria),Campo personalizado (Unidade de negócio),Campo personalizado (Unidade de negõcios),Campo personalizado (Urgency),Campo personalizado (Urgency),Campo personalizado (User Story),Campo personalizado (V&V Approved),Campo personalizado (V&V Approver),Campo personalizado (V&V Platform),Campo personalizado (Validated by SQA),Campo personalizado (Validation History),Campo personalizado (Validation Records),Campo personalizado (Vendor),Campo personalizado (Verification Criteria),Campo personalizado (Verified by SQA),Campo personalizado (Vulnerability),Campo personalizado (WIP for Removal),Campo personalizado (Work category),Campo personalizado (Workaround),Campo personalizado (Workaround Type),Campo personalizado ([CHART] Date of First Response),Campo personalizado ([CHART] Time in Status),Campo personalizado (time in status),Campo personalizado (Áreas de foco),Categoria do status,Categoria do status alterada
+6.500 - Análise e Reprocessamento de Arquivos – Apoio Técnico ,UNF2026-240,190888,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,08/mai/26 11:48 AM,08/mai/26 12:39 PM,08/mai/26 12:38 PM,08/mai/26 12:39 PM,,0,"O técnico Welinton Estevão solicitou apoio para análise e reprocessamento de arquivos devido ao mesmo estar em atividade em campo.
+
+*Contexto Técnico:*
+Foi solicitado suporte operacional para validação e possível reprocessamento de arquivos relacionados às operações em andamento, visando garantir a correta atualização das informações nas plataformas e continuidade das atividades em campo.
+
+*Objetivo:*
+Realizar análise técnica dos arquivos envolvidos e executar os reprocessamentos necessários para normalização das informações operacionais.
+
+*Ações Técnicas:*
+
+* Validar os arquivos vinculados à solicitação
+* Identificar possíveis inconsistências ou falhas de processamento
+* Executar reprocessamentos necessários
+* Validar atualização das informações nas plataformas envolvidas
+* Retornar posicionamento ao técnico solicitante
+
+*Critério de Encerramento:*
+Ticket poderá ser encerrado após conclusão das análises, realização dos reprocessamentos necessários e validação do funcionamento correto das informações operacionais.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;08/mai/26 12:39 PM;633212a0fedc6169aed6fd7c;2100,,3600,1500,2100,58%,3600,1500,2100,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6bcb735e,,,,"Dados encontrados com erro, e reprocessados, foram efetivados, retornado ao técnico solicitante.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,08/mai/26 11:47 AM,08/mai/26 11:48 AM,08/mai/26 12:39 PM,08/mai/26 11:48 AM,,,,08/mai/26 11:47 AM,,,,,,,,,,,{},,,,,,,,,1.0,51.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i048yw:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_25340_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_25340_*|*_14518_*:*_1_*:*_0,,Itens concluídos,08/mai/26 12:39 PM
+6.500 - Solicitação Apoio Analise de Dados,UNF2026-236,190538,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,07/mai/26 10:29 AM,07/mai/26 2:05 PM,07/mai/26 12:16 PM,07/mai/26 2:04 PM,,0,"Solicito o apoio de análise de dados da empresa JRM SP para realização de verificações  e levantamento de informações, com o objetivo de identificar a causa da pendência apresentada e aplicar as devidas tratativas para normalização do processo.
+
+Frota 443: bordo  26943
+
+Frota 429: BORDO 26929
+
+Frota 425 bordo 26921
+
+Período:    18/03 á 21/04",,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,;07/mai/26 2:05 PM;633212a0fedc6169aed6fd7c;6660,,,0,6660,,,0,6660,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1ea77887,,,,"Pendentes informações conforme conversamos.
+Número do display.
+
+Data da operação.
+
+Área realizada no período.
+
+Aguardamos para prosseguirmos com analises.
+
+
+
+Compilado os dados e enviado ao cliente, encontramos 2 arquivos que não foram transmitidos para o SWS, os mesmos foram baixados e enviados diretamente na plataforma.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,07/mai/26 10:33 AM,07/mai/26 10:26 AM,07/mai/26 10:33 AM,07/mai/26 2:04 PM,07/mai/26 10:33 AM,,,,07/mai/26 10:26 AM,,,,,,,,,,,{},,,,,,,,211.0,7.0,0.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,WhatsApp - PV,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i048og:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_220937_*|*_14518_*:*_1_*:*_5133_*|*_14520_*:*_1_*:*_0,14838_*:*_1_*:*_220937_*|*_14518_*:*_1_*:*_5133_*|*_14520_*:*_1_*:*_0,,Itens concluídos,07/mai/26 2:04 PM
+6.500 - Cadastro da Fazenda Paranapitanga na plataforma ,UNF2026-218,188198,Tarefa,Dev. Cliente,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,24/abr/26 4:48 PM,24/abr/26 5:24 PM,07/mai/26 10:59 AM,,,0,"Solicitação de cadastro da *Fazenda Paranapitanga* na plataforma Hexagon para viabilizar a geração de mapas e o fechamento das atividades operacionais da Suzano.
+
+O cadastro *não deve ser feito de forma isolada*, pois novas atualizações de base inativam automaticamente a base anterior. Já ocorreram casos em MS e SP em que fazendas enviadas separadamente foram desativadas por não constarem na base mais recente.
+
+Dessa forma, o cadastro deve ser realizado *junto com a base completa da Suzano*, com o envolvimento do *time responsável pelo GEO*, garantindo que a fazenda permaneça *ativa e integrada* nas próximas atualizações.
+
+h3. *Escopo / Ações necessárias*
+
+* Validar o envio da Fazenda Paranapitanga na *base completa da Suzano*
+* Envolver o *time GEO Suzano* no processo
+* Garantir que a fazenda permaneça *ativa após futuras atualizações de base*
+* Evitar cadastro isolado fora do fluxo padrão
+
+h3. *Anexos*
+
+* KMZ/KML e PDFs das áreas Paranapitanga I e II (conforme e-mail)
+
+h3. *Prioridade*
+
+Média",,Adenilton Silva,633212a0fedc6169aed6fd7c,;24/abr/26 5:24 PM;633212a0fedc6169aed6fd7c;1200,,3600,2400,1200,33%,3600,2400,1200,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@72301e53,,,,"Arquivos que foram enviados para cadastros estão divergentes.
+
+Retornado o e-mail para o cliente.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,24/abr/26 5:24 PM,,,24/abr/26 4:46 PM,24/abr/26 5:05 PM,,24/abr/26 5:05 PM,,,,24/abr/26 4:46 PM,,,,,,,,,,,{},,,,,,,,,19.0,19.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i046rs:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,,,,Em andamento,24/abr/26 4:48 PM
+6.500 - Solicitação de uma ativação,UNF2026-214,187739,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,23/abr/26 1:05 PM,23/abr/26 1:16 PM,,23/abr/26 1:15 PM,,0,"Por gentileza, solicito apoio no encaminhamento da ativação, para liberação do acesso e validação dos parâmetros necessários, a fim de restabelecer a operacionalidade do sistema/equipamento conforme o esperado.
+
+Display: 292148 
+
+Versão: 4.0.7
+
+Atiavação: JAN.",,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,;23/abr/26 1:16 PM;633212a0fedc6169aed6fd7c;600,,,0,600,,,0,600,,23/abr/26 1:14 PM;633212a0fedc6169aed6fd7c;image-20260423-161423.png;https://agguidance.atlassian.net/rest/api/3/attachment/content/176301,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26a206b6,,,,"O coordenador [~accountid:60dc6c037d016900702ba63d], estava em outras demandas, fora do escritório e solicitou um apoio.
+
+Arquivos enviados ao técnico conforme o solicitado.
+
+Também foi enviada uma ativação remota.
+
+!image-20260423-161423.png|width=332,alt=""image-20260423-161423.png""!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,23/abr/26 12:58 PM,23/abr/26 1:07 PM,23/abr/26 1:15 PM,23/abr/26 1:07 PM,,,,23/abr/26 12:58 PM,,,,,,,,,,,{},,,,,,,,,9.0,8.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,,,Atualizações e Novas Funcionalidades,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i046bm:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_120642_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_120642_*|*_14518_*:*_1_*:*_0,,Itens concluídos,23/abr/26 1:15 PM
+6.500 - Análise de dados Tecpar -  Suzano SP ,UNF2026-213,187598,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,23/abr/26 8:51 AM,23/abr/26 10:20 AM,,23/abr/26 10:20 AM,,0,"O técnico Welinton Silva compareceu na base solicitando apoio para análise de dados relacionados ao provedor Tecpar, vinculado ao produtor Suzano SP.
+
+
+* Foi identificado a necessidade de validação das informações e comportamento dos dados entre provedor e produtor, visando identificar possíveis inconsistências ou ajustes necessários no fluxo operacional.
+
+Objetivo
+Realizar análise técnica dos dados do provedor Tecpar no ambiente do produtor Suzano SP, verificando integrações, vínculos e eventuais divergências.
+
+Ações Técnicas
+Analisar registros e movimentações de dados do provedor Tecpar
+Validar associação com o produtor Suzano SP
+Identificar inconsistências ou falhas no processamento
+Aplicar ou direcionar correções, se necessário
+
+Critério de Encerramento
+Análise concluída, causa identificada e retorno repassado ao solicitante com as devidas tratativas realizadas.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;23/abr/26 10:20 AM;633212a0fedc6169aed6fd7c;5400,,3600,0,5400,150%,3600,0,5400,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3192876f,,,,"Foi prestado o devido apoio ao técnico, sendo identificadas as seguintes divergências durante a análise:
+
+24489 - Cadastro incorreto no Admin. Constatado envio de arquivos no SWS contendo 2 ou mais funções.
+
+23317 - Cadastro incorreto no Admin. Identificado MAC cadastrado como cac1000003dc2fc, contendo apenas 15 caracteres. Também constatadas 2 funções diferentes no mês 2.
+
+Posteriormente, o setor responsável realizou a correção do MAC cadastrado incorretamente. Após o ajuste, os dados foram enviados no OM, processados e funcionando conforme o padrão esperado.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,23/abr/26 8:49 AM,23/abr/26 8:51 AM,23/abr/26 10:20 AM,23/abr/26 8:51 AM,,,,23/abr/26 8:49 AM,,,,,,,,,,,{},,,,,,,,,2.0,89.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i0469e:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_20735_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_20735_*|*_14518_*:*_1_*:*_0,,Itens concluídos,23/abr/26 10:20 AM
+6.500 - Análise de arquivos com área e efetivo zerado no cliente Eucatex  ,UNF2026-185,183438,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,02/abr/26 1:09 PM,14/abr/26 3:19 PM,,14/abr/26 3:18 PM,,0,"O técnico Johnny Kevim solicitou apoio para análise dos dados do cliente Eucatex, pois foram identificados vários arquivos que apresentam área processada, porém com o efetivo zerado.
+
+Contexto Técnico
+Foi reportado um comportamento inconsistente nos dados integrados/processados do cliente Eucatex, em que determinados arquivos demonstram presença de área, mas sem registro de efetivo. O cenário precisa ser analisado para identificar se a origem está relacionada à configuração operacional, regra de processamento, associação cadastral, estrutura do arquivo ou possível inconsistência sistêmica.
+
+Objetivo
+Investigar a origem da divergência entre área e efetivo nos arquivos do cliente Eucatex, validar o impacto do problema e definir a ação corretiva necessária para regularização dos dados.
+
+Ações Técnicas
+Realizar levantamento dos arquivos impactados e validar o período da ocorrência
+Analisar os dados brutos e processados para identificar o motivo do efetivo estar zerado mesmo com área registrada
+Validar possíveis inconsistências de cadastro, associação, função operacional, regra aplicada ou parâmetros de processamento
+Verificar se o comportamento ocorre de forma pontual ou recorrente em outros arquivos do mesmo cliente
+Documentar a causa identificada e, se necessário, direcionar tratativa corretiva para o time responsável",,Adenilton Silva,633212a0fedc6169aed6fd7c,,,7200,7200,,0%,7200,7200,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6f6b3e77,,,,"* Analisado os dados.
+* Identificado área produtiva + dose.
+* Efetivo Zerado
+* Dados excluidos e lançados novamente.
+* Provavel causa função configurada errada anteriormente.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,03/abr/26 11:38 AM,02/abr/26 1:09 PM,02/abr/26 1:10 PM,14/abr/26 3:18 PM,02/abr/26 1:10 PM,,,,02/abr/26 1:09 PM,,,,,,,,,,,{},,,,,,,,16061.0,1.0,1348.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i042oa:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_22438_*|*_14518_*:*_1_*:*_80905517_*|*_14520_*:*_1_*:*_0,14838_*:*_1_*:*_22438_*|*_14518_*:*_1_*:*_80905517_*|*_14520_*:*_1_*:*_0,,Itens concluídos,14/abr/26 3:18 PM
+6.500 - Relatórios de Operações exibem apenas plantas após 16/03/2026 na área Falsa,UNF2026-182,183082,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,01/abr/26 11:23 AM,02/abr/26 9:50 AM,,02/abr/26 9:50 AM,,0,"O cliente _The Navigator Company_ informou que, nos *Relatórios de Operações* gerados na plataforma, estão sendo consideradas *somente as plantas instaladas após 16/03/2026*, apesar de o processo de plantação ter iniciado em *janeiro de 2026*. [[RE: Nova á...or - Falsa | Outlook]|https://outlook.office365.com/owa/?ItemID=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ%2bpsOrTZX%2fs0SR2rwgBwCxubeHrBb6TrH5trr1i%2fWQAAAAAAEMAACxubeHrBb6TrH5trr1i%2fWQAAUoQm%2bDAAA%3d&exvsurl=1&viewmodel=ReadMessageItem]
+
+*Impacto:*
+Os relatórios atuais não representam a totalidade da produção/plantio realizada na propriedade *Falsa*, ocasionando divergências nas análises operacionais do cliente.
+
+*Ação já executada:*
+– Foi realizado um *update no Control Room*, e a nova base estará disponível no *OM* em aproximadamente 6 horas. [[RE: Nova á...or - Falsa | Outlook]|https://outlook.office365.com/owa/?ItemID=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ%2bpsOrTZX%2fs0SR2rwgBwCxubeHrBb6TrH5trr1i%2fWQAAAAAAEJAACxubeHrBb6TrH5trr1i%2fWQAAUi1LcaAAA%3d&exvsurl=1&viewmodel=ReadMessageItem]
+
+*Solicitação:*
+
+# Verificar por que os relatórios estão ignorando os dados operacionais anteriores a 16/03/2026.
+# Validar se existe problema no processamento, vinculação de áreas ou na sincronização entre CR/OM.
+# Ajustar o processamento para que todos os dados desde janeiro sejam corretamente considerados nos relatórios.
+# Após correção, confirmar com o cliente a disponibilidade e integridade dos dados atualizados.
+
+*Anexos relevantes:*
+– Não aplicável neste e-mail específico.
+
+*Contato cliente:*
+Filipe Louro – Inovação e Desenvolvimento Florestal
+The Navigator Company
+E-mail: [filipe.louro@thenavigatorcompany.com|mailto:filipe.louro@thenavigatorcompany.com]",,Adenilton Silva,633212a0fedc6169aed6fd7c,;02/abr/26 9:50 AM;633212a0fedc6169aed6fd7c;3360,,5400,2040,3360,62%,5400,2040,3360,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5f208c65,,,,"* Realizado o rastreio dos dados, foi notado que há dados enviados porém os mesmos não constam no Relatório.
+* Realizado contato com Samuel Ferreira para entendermos o assunto.
+* Os dados estavam nos arquivos enviados, porém não constavam nos relatórios, os mesmo foram reprocessados e encontram-se ok.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,01/abr/26 2:33 PM,,01/abr/26 11:22 AM,01/abr/26 2:32 PM,02/abr/26 9:50 AM,01/abr/26 2:32 PM,,,,01/abr/26 11:22 AM,,,,,,,,,,,{},,,,,,,1157.0,,190.0,1.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i042ei:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_11364500_*|*_14518_*:*_1_*:*_72489_*|*_14522_*:*_1_*:*_0,14838_*:*_1_*:*_11364500_*|*_14518_*:*_1_*:*_72489_*|*_14522_*:*_1_*:*_0,,Itens concluídos,02/abr/26 9:50 AM
+6.500 - Verificação de acesso JFI para envio de arquivos no SWS1 ,UNF2026-155,180675,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,19/mar/26 12:00 PM,25/mar/26 2:46 PM,,25/mar/26 2:46 PM,,0,"Verificar o acesso JFI para envio de arquivos no SWS1, conforme comunicado enviado à Suzano informando o bloqueio do lançamento de dados via SWS.
+
+Contexto Técnico:
+No dia 03/02 foi enviado um comunicado para toda a Suzano informando a mudança no processo de envio de dados. A partir dessa alteração, o acesso ao lançamento de dados via SWS foi bloqueado para todos os usuários.
+Diante disso, foi solicitado apoio para validar se o acesso JFI está devidamente configurado para permitir o envio de arquivos no SWS1.
+Foi encaminhado também um vídeo explicativo com o fluxo de envio de dados via OM para apoio.
+
+Objetivo:
+Garantir que o acesso JFI esteja corretamente habilitado para envio de arquivos no SWS1, assegurando a continuidade operacional do processo de carga de dados.
+
+Ações Técnicas:
+
+* Validar configuração de acesso JFI para os usuários envolvidos
+* Verificar permissões de envio de arquivos no SWS1
+* Confirmar bloqueio do envio via SWS conforme comunicado
+* Analisar funcionamento do fluxo alternativo via OM (com base no vídeo enviado)
+* Realizar testes de envio de arquivos após validação de acesso
+
+.",,Adenilton Silva,633212a0fedc6169aed6fd7c,,,3600,3600,,0%,3600,3600,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@39b1939d,,,,"Analisado e identificado que estão todos se as devidas permissões de envio, retornado via e-mail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,19/mar/26 11:58 AM,25/mar/26 2:30 PM,25/mar/26 2:46 PM,25/mar/26 2:30 PM,,,,19/mar/26 11:58 AM,,,,,,,,,,,{},,,,,,,,,8792.0,16.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03zmi:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_527398874_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_527398874_*|*_14518_*:*_1_*:*_0,,Itens concluídos,25/mar/26 2:46 PM
+6.500 - Cadastro de novas áreas – Propriedade Falsa (Navigator),UNF2026-154,180674,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,19/mar/26 11:58 AM,25/mar/26 9:02 AM,,25/mar/26 9:02 AM,,0,"O solicitante Filipe Louro encaminhou a necessidade de cadastro de novas áreas na propriedade “Falsa”, informando que essas áreas fazem parte de talhões já existentes e solicitando validação da possibilidade de ajuste/inclusão.
+
+*Contexto Técnico:*
+Durante o acompanhamento das plantações na propriedade “Falsa”, foram identificadas novas áreas que devem ser incorporadas aos talhões já cadastrados (T001_EG e T002_EG). Foi questionado se é possível corrigir/acrescentar essas áreas diretamente nos talhões existentes.
+Os arquivos com as áreas a serem adicionadas foram encaminhados em anexo.
+
+*Objetivo:*
+Avaliar e realizar o cadastro das novas áreas, garantindo sua correta associação aos talhões existentes na base.
+
+*Ações Técnicas:*
+
+* Analisar os arquivos anexos com as novas áreas
+* Validar compatibilidade com os talhões existentes (T001_EG e T002_EG)
+* Verificar melhor abordagem: atualização de base existente ou criação de nova base
+* Realizar inclusão/ajuste das áreas nos talhões correspondentes
+* Validar integridade geoespacial após atualização
+
+*Critério de Encerramento:*
+
+* Áreas cadastradas corretamente nos talhões existentes
+* Base atualizada sem inconsistências
+* Validação confirmada com o solicitante (Filipe Louro)",,Adenilton Silva,633212a0fedc6169aed6fd7c,;20/mar/26 9:44 AM;633212a0fedc6169aed6fd7c;1980,,3600,1620,1980,55%,3600,1620,1980,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1c77a3d4,,,,"
+
+* O cliente enviou novos limites de área que deveriam ser incorporados aos talhões já existentes. [[RE: Nova á...or - Falsa | Outlook]|https://outlook.office365.com/owa/?ItemID=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ%2bpsOrTZX%2fs0SR2rwgBwCxubeHrBb6TrH5trr1i%2fWQAAAAAAEMAACxubeHrBb6TrH5trr1i%2fWQAAUeIRMkAAA%3d&exvsurl=1&viewmodel=ReadMessageItem]
+* Os arquivos ZIP contendo as novas geometrias foram recebidos e utilizados para atualização cadastral. [[RE: Nova á...or - Falsa | Outlook]|https://outlook.office365.com/owa/?ItemID=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ%2bpsOrTZX%2fs0SR2rwgBwCxubeHrBb6TrH5trr1i%2fWQAAAAAAEMAACxubeHrBb6TrH5trr1i%2fWQAAUeIRMkAAA%3d&exvsurl=1&viewmodel=ReadMessageItem]
+* O tratamento da base foi concluído  [[RE: Nova á...or - Falsa | Outlook]|https://outlook.office365.com/owa/?ItemID=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ%2bpsOrTZX%2fs0SR2rwgBwCxubeHrBb6TrH5trr1i%2fWQAAAAAAEMAACxubeHrBb6TrH5trr1i%2fWQAAUeIRMkAAA%3d&exvsurl=1&viewmodel=ReadMessageItem]
+* A atualização será propagada automaticamente para o *Operation Manager (OM)* dentro de aproximadamente *6 horas* após o processamento no CR. [[RE: Nova á...or - Falsa | Outlook]|https://outlook.office365.com/owa/?ItemID=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ%2bpsOrTZX%2fs0SR2rwgBwCxubeHrBb6TrH5trr1i%2fWQAAAAAAEMAACxubeHrBb6TrH5trr1i%2fWQAAUeIRMkAAA%3d&exvsurl=1&viewmodel=ReadMessageItem]
+
+*Status:*
+✔ Cadastro finalizado e sincronização em andamento.
+
+Aguardando atualização e melhorias internas por parte do PD.
+
+25/03/2026 às 09:00 - Base atualizada conforme o padrão ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,20/mar/26 9:44 AM,,19/mar/26 11:57 AM,20/mar/26 8:03 AM,25/mar/26 9:02 AM,20/mar/26 8:03 AM,,,,19/mar/26 11:57 AM,,,,,,,,,,,{},,,,,,,7158.0,,1206.0,101.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03zma:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_72316357_*|*_14518_*:*_1_*:*_6053850_*|*_14522_*:*_1_*:*_0,14838_*:*_1_*:*_72316357_*|*_14518_*:*_1_*:*_6053850_*|*_14522_*:*_1_*:*_0,,Itens concluídos,25/mar/26 9:02 AM
+6.500 - Divergência e possível inversão de espaçamento entre linhas no talhão ,UNF2026-166,181383,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,24/mar/26 9:47 AM,24/mar/26 10:22 AM,,24/mar/26 10:21 AM,,0,"O coordenador Roniel Dias solicitou uma análise de dados devido a inconsistência no espaçamento entre linhas apresentado no sistema.
+
+*Contexto Técnico:*
+Foi identificado que os valores exibidos para:
+
+* Entre Linhas Real (m): 8,46
+* Entre Linhas (média ponderada) (m): 7,86
+
+podem estar invertidos, gerando incoerência na interpretação dos dados operacionais e impactando diretamente nos cálculos de estimativa (mudas/ha).
+
+*Objetivo:*
+Validar se houve inversão lógica ou erro de processamento/exibição nos campos de espaçamento entre linhas, garantindo a consistência dos dados apresentados no OM.
+
+*Ações Técnicas:*
+
+* Validar origem dos dados de espaçamento nos arquivos brutos (TI/CTI/DBF)
+* Conferir regra de cálculo da média ponderada vs valor real
+* Verificar possível inversão no mapeamento dos campos no backend ou front-end
+* Analisar impacto nos cálculos de mudas/ha e relatórios associados
+* Validar se o comportamento ocorre apenas neste talhão ou em outros casos
+* Revisar configuração da atividade e parâmetros aplicados
+
+*Critério de Encerramento:*
+
+* Confirmação se houve inversão dos valores ou não
+* Correção aplicada (caso confirmado erro)
+* Evidência validada no sistema com dados consistentes
+* Retorno ao solicitante com conclusão técnica
+
+Se quiser, posso já deixar isso em formato mais direto pra colar no Jira (estilo chamado rápido) ou incluir dados do talhão (F95-0016 / Eucatex / KBS) como evidência.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;24/mar/26 10:22 AM;633212a0fedc6169aed6fd7c;2040,,3600,1560,2040,56%,3600,1560,2040,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@39c27a51,,,,"Analisado e retornado ao coordenador conforme o solicitado, foram abertas algumas tabelase analisado que realmente está havendo uma inversão entre Realaplicado e média ponderado.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,24/mar/26 9:45 AM,24/mar/26 9:47 AM,24/mar/26 10:21 AM,24/mar/26 9:47 AM,,,,24/mar/26 9:45 AM,,,,,,,,,,,{},,,,,,,,,2.0,34.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i040u2:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_16492_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_16492_*|*_14518_*:*_1_*:*_0,,Itens concluídos,24/mar/26 10:21 AM
+6.500 - Solicitação Apoio Analise de Dados,UNF2026-160,180714,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,19/mar/26 2:32 PM,20/mar/26 9:54 AM,,20/mar/26 9:54 AM,,0,"Solicito o apoio do analista Adenilton para a realização de uma análise de dados, com o objetivo de solucionar uma pendência identificada. A análise se faz necessária para verificar possíveis inconsistências, validar as informações disponíveis e identificar a causa raiz do problema, permitindo assim a devida tratativa e resolução da demanda.",,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,;19/mar/26 6:20 PM;633212a0fedc6169aed6fd7c;1620,,,0,1620,,,0,1620,,19/mar/26 6:20 PM;633212a0fedc6169aed6fd7c;IV0024 (394b2b34-4fe1-4eae-b050-5b050e150870).xlsx;https://agguidance.atlassian.net/rest/api/3/attachment/content/169749,19/mar/26 6:20 PM;633212a0fedc6169aed6fd7c;IV0024.xlsx;https://agguidance.atlassian.net/rest/api/3/attachment/content/169748,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6ab8c167,,,,"Ajustado para Suporte técnico.
+
+Welinton por gentileza sempre nos enviar o máximo de informações possíveis. 
+
+* Display 
+* Datas de operação 
+* Área/ display/dia.
+
+Aguardamos às devidas informações 
+
+
+
+Recebemos as devidas informações e levantamos os dados.
+[^IV0024 (394b2b34-4fe1-4eae-b050-5b050e150870).xlsx] ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,19/mar/26 2:51 PM,19/mar/26 2:27 PM,19/mar/26 2:50 PM,20/mar/26 9:54 AM,19/mar/26 2:50 PM,,,,19/mar/26 2:27 PM,,,,,,,,,,,{},,,,,,,,1143.0,23.0,1.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,WhatsApp - PV,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03zo2:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_1131210_*|*_14518_*:*_1_*:*_10164_*|*_14520_*:*_1_*:*_0,14838_*:*_1_*:*_1131210_*|*_14518_*:*_1_*:*_10164_*|*_14520_*:*_1_*:*_0,,Itens concluídos,20/mar/26 9:54 AM
+6.500 - Conversão de geometrias MultiLineString para LineString – Cliente Eucatex ,UNF2026-136,178907,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,10/mar/26 3:13 PM,10/mar/26 3:25 PM,,10/mar/26 3:25 PM,,0,"A cliente Isabela Carrera Martins, da Eucatex, entrou em contato solicitando apoio técnico para realizar a conversão de geometrias do tipo MultiLineString para LineString presentes no arquivo enviado.
+
+Contexto Técnico
+O arquivo encaminhado pela cliente contém feições lineares estruturadas no formato MultiLineString.
+
+Dessa forma, foi solicitado apoio para avaliar e realizar a conversão das geometrias mantendo a integridade espacial dos dados.
+
+Objetivo
+Converter as geometrias presentes no arquivo fornecido pela cliente de MultiLineString para LineString, garantindo compatibilidade com as ferramentas.
+
+Ações Técnicas
+Analisar o arquivo encaminhado pela cliente e validar a estrutura das geometrias.
+Identificar as feições classificadas como MultiLineString.
+Realizar a conversão das geometrias para o formato LineString utilizando ferramenta adequada (QGIS ou processamento equivalente).
+Validar a integridade das feições após a conversão.
+Disponibilizar o arquivo convertido para a cliente ou orientar sobre o procedimento realizado.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;10/mar/26 3:25 PM;633212a0fedc6169aed6fd7c;600,,3600,3000,600,16%,3600,3000,600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@56c931f2,,,,"Testada a conversão de Multipartes para partes simples, e funcionou conforme o esperado.
+
+Retornado ao cliente .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,10/mar/26 3:11 PM,10/mar/26 3:14 PM,10/mar/26 3:25 PM,10/mar/26 3:14 PM,,,,10/mar/26 3:11 PM,,,,,,,,,,,{},,,,,,,,,3.0,11.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03x8m:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_34510_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_34510_*|*_14518_*:*_1_*:*_0,,Itens concluídos,10/mar/26 3:25 PM
+"6.500 - Levantamento de IDs e nomenclaturas das funções de operação nos bancos SWS1, SWS2 e Atom (CR e OM) ",UNF2026-130,178760,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,10/mar/26 8:03 AM,10/mar/26 8:42 AM,,10/mar/26 8:42 AM,,0,"O coordenador Roniel Dias solicitou o levantamento das informações referentes aos IDs e às nomenclaturas das funções de operação existentes nos bancos de dados das plataformas SWS 1, SWS 2 e Atom, contemplando os ambientes Control Room (CR) e Operations Manager (OM).
+
+Contexto Técnico
+As plataformas SWS 1, SWS 2 e Atom possuem estruturas de banco de dados distintas para armazenamento das funções de operação utilizadas nos equipamentos em campo. Para fins de análise, padronização e validação das integrações entre sistemas, foi solicitado o levantamento consolidado contendo os identificadores (IDs) e respectivas nomenclaturas das funções cadastradas nesses ambientes.
+
+Objetivo
+Realizar o levantamento das funções de operação existentes nos bancos de dados das plataformas SWS 1, SWS 2 e Atom (CR e OM), identificando os respectivos IDs e nomenclaturas, a fim de subsidiar análises técnicas e possíveis alinhamentos entre as estruturas operacionais.
+
+Ações Técnicas
+Realizar consulta nos bancos de dados do SWS 1 para levantamento das funções de operação cadastradas.
+Realizar consulta nos bancos de dados do SWS 2 para levantamento das funções de operação cadastradas.
+Realizar consulta nos bancos de dados da plataforma Atom contemplando os ambientes Control Room (CR) e Operations Manager (OM).
+Consolidar os resultados contendo IDs e nomenclaturas das funções de operação.
+Organizar as informações para envio e validação pelo coordenador solicitante.
+
+Critério de Encerramento
+Ticket poderá ser encerrado após a consolidação das informações contendo os IDs e nomenclaturas das funções de operação das plataformas SWS 1, SWS 2 e Atom (CR e OM) e envio dos dados ao coordenador Roniel Dias para análise.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;10/mar/26 8:42 AM;633212a0fedc6169aed6fd7c;2400,,3600,1200,2400,66%,3600,1200,2400,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3ae44f2,,,,"Retirado, compilado e enviado conforme o solicitado.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,10/mar/26 8:02 AM,10/mar/26 8:03 AM,10/mar/26 8:42 AM,10/mar/26 8:03 AM,,,,10/mar/26 8:02 AM,,,,,,,,,,,{},,,,,,,,,1.0,39.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03x06:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_9819_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_9819_*|*_14518_*:*_1_*:*_0,,Itens concluídos,10/mar/26 8:42 AM
+6.500 - Apoio ao técnico Welinton – Análise de dados JRM e display 21200 não setando,UNF2026-32,167449,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,16/jan/26 2:09 PM,05/mar/26 2:02 PM,,05/mar/26 2:00 PM,,0,"h3. Resumo
+
+Apoio técnico ao Welinton para análise de dados da JRM e diagnóstico do display nº 21200, que não está setando corretamente.
+
+h3. Contexto
+
+Welinton compareceu à residência para suporte nas análises operacionais. O foco foi identificar causas relacionadas à configuração e comunicação do equipamento.
+
+h3. Critérios de aceitação
+
+* Análise dos dados da JRM.
+* Diagnóstico do display nº 21200.
+* Identificação de causas relacionadas à configuração, comunicação ou parametrização do equipamento.
+* Apoio na interpretação dos dados disponíveis.
+
+h3. Outras informações
+
+Equipamento envolvido:
+
+* Display: 21200
+
+Atividades executadas:
+
+* Apoio técnico presencial.
+* Análise de dados operacionais (JRM).
+* Análise de comportamento do display (não setando).
+
+Status atual:
+
+* 🔄 Em análise / acompanhamento
+
+Observações:
+
+* Possível continuidade do suporte com nova validação de configurações, verificação de firmware e checagem de comunicação/sensores associados ao display.
+
+Ações:
+
+* Divergências no processo foram alinhadas com o responsável técnico, incluindo mudança de display sem coleta de dados e falta de cadastros.
+* Na data 22/01/2026 o cliente entrou em contato novamente referente aos dados vários displays, foram realizados alguns levantamentes e retornado ao cliente, sem devolutiva até o momento, é necessario nos retornar com as informações de campo.
+* Conversando com Welinton  data 03/02/2026 - aguardando modem de internet.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;21/jan/26 2:24 PM;633212a0fedc6169aed6fd7c;11220,,10800,0,11220,103%,10800,0,11220,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@707a4579,,,,"o Técnico [~accountid:712020:21e2d9c9-0f61-4500-b7e0-312746cc1897], veio até o escritótio com o novo modem, foi realizado os devidos apoio para que o memso fizesse todos os procedimentos conforme o padrão.
+
+
+
+O display setou e sincronizou a nuvem conforme o esperado, ficou pendente por parte do técnico resposável o envio dos devidos registros para configuração do BD do display ( enviar ao PD), tinfo, disgnóstico e registros.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,16/jan/26 12:40 PM,,,05/mar/26 2:00 PM,16/jan/26 1:30 PM,,,,16/jan/26 12:00 PM,,,,,,,,,,,{},,,,,,,,66240.0,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03mcy:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_151348388_*|*_14517_*:*_1_*:*_6666_*|*_14518_*:*_1_*:*_249048441_*|*_14520_*:*_1_*:*_0_*|*_14521_*:*_2_*:*_1155193076,14519_*:*_1_*:*_151348388_*|*_14517_*:*_1_*:*_6666_*|*_14518_*:*_1_*:*_249048441_*|*_14520_*:*_1_*:*_0_*|*_14521_*:*_2_*:*_1155193076,,Itens concluídos,05/mar/26 2:00 PM
+6.500 - Análise de erro de processamento de arquivos – Cliente Eucatex,UNF2026-119,177758,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,04/mar/26 2:29 PM,04/mar/26 4:11 PM,,04/mar/26 4:10 PM,,0,"O coordenador Roniel Dias solicitou, via Teams, apoio para análise de arquivos do cliente Eucatex que apresentaram erro durante o processamento no SWS.
+
+Contexto Técnico
+Durante a verificação do arquivo enviado automaticamente pelo fornecedor Eucaflora, identificado como *291310_20260303_EUCAFLORA_2INSUMOS_0001.Ti*, foi constatado erro no processamento do tipo *SWS001 – Produtor não encontrado no banco de dados do SWS*.
+
+O processamento foi interrompido ainda na etapa *Split 0*, indicando que o sistema não conseguiu associar o produtor informado no arquivo com um produtor cadastrado no banco de dados do SWS.
+
+Dados identificados no processamento:
+Produtor: Eucatex Florestal
+Fornecedor: Eucaflora
+Função: Subsolagem de Base
+Veículo: BH 180 – TR20
+Envio: Automático
+Estado do processamento: Erro
+Mensagem retornada: SWS001 – Produtor não encontrado no banco de dados do SWS
+
+Objetivo
+Realizar a análise do arquivo e validar o motivo pelo qual o produtor informado no envio não foi reconhecido pelo sistema, verificando possíveis inconsistências de cadastro ou associação no ambiente do SWS.
+
+Ações Técnicas
+Verificar se o produtor *Eucatex Florestal* está devidamente cadastrado no banco de dados do SWS.
+Validar possíveis divergências entre o identificador do produtor informado no arquivo e o cadastro existente no sistema.
+Analisar se há inconsistência de configuração entre produtor, fornecedor ou integração de envio automático.
+Confirmar se o ambiente de destino possui o produtor corretamente registrado e ativo.
+
+Critério de Encerramento
+Ticket poderá ser encerrado após a identificação da causa do erro SWS001 e definição ou aplicação da correção necessária para permitir o processamento correto dos arquivos enviados pelo cliente.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;04/mar/26 4:11 PM;633212a0fedc6169aed6fd7c;2820,,3600,780,2820,78%,3600,780,2820,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@50c3cce1,,,,"Analisado e toda parte de cadsstro ta ok, inclusive os displays 291310 e 291311 já haviam transmitidos dados automatico, foi realizado contato com o Guilherme Correa para entender a situação.
+MAC também está ok, aparentemente algum ajuste interno.
+
+Cadastros internos ajustados pelo Guilherme Correa, dados excluídos e lançados novamente no OM .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,04/mar/26 3:01 PM,,04/mar/26 2:27 PM,04/mar/26 2:29 PM,04/mar/26 4:10 PM,04/mar/26 2:29 PM,,,,04/mar/26 2:27 PM,,,,,,,,,,,{},,,,,,,69.0,,2.0,32.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03v92:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_14782_*|*_14518_*:*_1_*:*_1919002_*|*_14522_*:*_1_*:*_0,14838_*:*_1_*:*_14782_*|*_14518_*:*_1_*:*_1919002_*|*_14522_*:*_1_*:*_0,,Itens concluídos,04/mar/26 4:10 PM
+6.500 - Divergência ID Veículo - SWS 2,UNF2026-78,174560,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,17/fev/26 9:36 PM,27/fev/26 3:19 PM,,27/fev/26 3:19 PM,,0,"h3. Resumo
+
+O SWS2 não permite editar o único veículo configurado em um bordo do provedor Renova. É necessário desvincular esse veículo para que o bordo anteriormente utilizado no provedor JFI possa ser utilizado.
+
+h3. Contexto
+
+Atualmente, existe um veículo configurado no provedor Renova que precisa ser desvinculado. Isso é necessário para reconfigurar o bordo no provedor JFI.
+
+h3. Critérios de aceitação
+
+* O sistema deve permitir a edição do veículo no SWS2.
+* O veículo deve ser desvinculado do provedor Renova.
+* O bordo anteriormente utilizado no provedor JFI deve ser configurado corretamente após a desvinculação.
+
+h3. Outras informações
+
+N/A",,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,;27/fev/26 3:18 PM;633212a0fedc6169aed6fd7c;3240,,,0,3240,,,0,3240,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2f1914a3,,,,"Sanadas todas as dúvidas via teams, participação técnicos [~accountid:712020:8a2a2f7c-723a-43db-a06f-0cf0d1a65b4c] e [~accountid:712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4] .",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,27/fev/26 3:19 PM,19/fev/26 10:15 AM,,,,19/fev/26 7:00 AM,,,,,,,,,,,{},,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03rl6:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_131953041_*|*_14520_*:*_1_*:*_0,14517_*:*_1_*:*_131953041_*|*_14520_*:*_1_*:*_0,,Itens concluídos,27/fev/26 3:19 PM
+6.500 - Análise de dados na plataforma SWS (Welinton Silva)  Resumo da Solicitação,UNF2026-111,176889,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,27/fev/26 11:30 AM,27/fev/26 3:15 PM,,27/fev/26 3:15 PM,,0,"Prestação de apoio técnico ao Welinton Silva, que está em campo e solicitou análise dos dados disponíveis na plataforma SWS para validação das informações operacionais.
+
+Contexto Técnico
+O técnico Welinton Silva entrou em contato solicitando suporte para análise dos dados apresentados na SWS. A demanda está relacionada à validação de informações operacionais coletadas em campo, com possível divergência ou necessidade de conferência entre o realizado e o apresentado na plataforma.
+
+Objetivo
+Analisar os dados na plataforma SWS, validar integridade das informações, identificar possíveis inconsistências e fornecer retorno técnico ao solicitante para tomada de decisão em campo.
+
+Ações Técnicas
+Acessar a plataforma SWS e identificar os equipamentos/atividades envolvidos
+Extrair e analisar os dados brutos do período informado
+Validar informações de área, efetivo, atividades e status operacionais
+Verificar possíveis falhas de comunicação, sincronização ou parametrização
+Documentar evidências e retornar ao técnico com parecer técnico
+
+Critério de Encerramento
+Análise concluída
+Parecer técnico enviado ao solicitante
+Validação confirmada com o técnico Welinton Silva
+Chamado devidamente documentado com evidências anexadas, se aplicável",,Adenilton Silva,633212a0fedc6169aed6fd7c,;27/fev/26 11:38 AM;633212a0fedc6169aed6fd7c;1380,;27/fev/26 3:15 PM;633212a0fedc6169aed6fd7c;900,5400,3120,2280,42%,5400,3120,2280,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@f90b5ab,,,,"Analisado e enviado ao técnico Welinton que o display 24168 está transmitidno ok, segundo o memso foi ajustado em campo, foi solicitado também a coleta manual.
+
+
+
+Chamado finalizado por falta de interação do técnico Welinton Silva.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,27/fev/26 11:38 AM,27/fev/26 11:27 AM,27/fev/26 11:30 AM,27/fev/26 3:15 PM,27/fev/26 11:30 AM,,,,27/fev/26 11:27 AM,,,,,,,,,,,{},,,,,,,,217.0,3.0,8.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03ud2:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_16699_*|*_14518_*:*_1_*:*_503861_*|*_14520_*:*_1_*:*_0,14838_*:*_1_*:*_16699_*|*_14518_*:*_1_*:*_503861_*|*_14520_*:*_1_*:*_0,,Itens concluídos,27/fev/26 3:15 PM
+6.500 - Divergência Alteração ID Veículo - SWS 1,UNF2026-77,174559,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,17/fev/26 9:30 PM,27/fev/26 2:58 PM,,27/fev/26 2:58 PM,,0,"h3. Resumo
+
+Divergência na alteração do ID dos veículos cadastrados da Suzano SP. O SWS1 não permite edições.
+
+h3. Contexto
+
+Após novas adequações no banco de dados da Suzano, é necessário alterar o nome dos veículos cadastrados.
+
+h3. Critérios de aceitação
+
+* Alterar o nome dos veículos cadastrados da Suzano SP.
+* Garantir que o SWS1 permita edições.
+
+h3. Outras informações
+
+N/A",,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,;27/fev/26 2:56 PM;633212a0fedc6169aed6fd7c;3600,,,0,3600,,,0,3600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3f580fbd,,,,"Realizada uma call com os técnicos Johnny e  Lucas.
+
+
+
+Sanadas todas as dúvidas.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,27/fev/26 2:58 PM,19/fev/26 10:12 AM,,,,19/fev/26 7:00 AM,,,,,,,,,,,{},,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03rky:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_132171473_*|*_14520_*:*_1_*:*_0,14517_*:*_1_*:*_132171473_*|*_14520_*:*_1_*:*_0,,Itens concluídos,27/fev/26 2:58 PM
+6.500 - Apoio técnico | Erro no SWS – Reprocessamento em Modo Avançado,UNF2026-61,170552,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,03/fev/26 3:09 PM,27/fev/26 2:34 PM,,27/fev/26 2:34 PM,,0,"*Cliente:* Suzano – São Paulo
+*Provedor:* JL Vivaldine
+*Sistema:* SWS / GDC
+
+----
+
+h3. 📌 *Descrição*
+
+Foi realizado apoio técnico ao *Johnny Kevin* referente a erros identificados no *processamento de arquivos no SWS*, associados ao cliente *Suzano – São Paulo*, provedor *JL Vivaldine*.
+
+Os arquivos estavam sendo enviados corretamente, porém retornavam erro durante o processamento no SWS.
+
+----
+
+h3. 🔎 *Análise / Diagnóstico*
+
+Após análise técnica, foi identificado que a *possível causa raiz* está relacionada a inconsistências no *cadastro do provider na LIST (Provider LIST)*, o que impacta diretamente a validação dos arquivos no SWS e o vínculo correto com as *CTIS*.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;03/fev/26 3:11 PM;633212a0fedc6169aed6fd7c;5580,;27/fev/26 2:33 PM;633212a0fedc6169aed6fd7c;2100,7200,0,7680,106%,7200,0,7680,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2a05c434,,,,"h3. ✅ *Conclusão*
+
+O erro está associado ao cadastro do provider na LIST.
+Com a planilha corrigida já enviada via *GDC*, o processo segue aguardando a efetivação do cadastro e atualização das CTIS.
+Enquanto isso, o *reprocessamento em modo avançado* será utilizado como medida temporária.
+
+----
+
+h3. 🎯 *Critérios de Aceitação*
+
+* Provider cadastrado corretamente na LIST
+* CTIS atualizadas
+* Arquivos processados no SWS sem erro
+* Reprocessamento em modo padrão funcionando
+* Validação final com o técnico Johnny Kevin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,,27/fev/26 2:34 PM,02/fev/26 3:00 PM,,,,02/fev/26 2:00 PM,,,,,,,,,,,{},,,,,,,,0.0,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03ory:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_97756_*|*_14520_*:*_1_*:*_0,14517_*:*_1_*:*_97756_*|*_14520_*:*_1_*:*_0,,Itens concluídos,27/fev/26 2:34 PM
+6.500 - Solicitação Apoio Analise de Dados,UNF2026-109,176753,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,26/fev/26 4:04 PM,26/fev/26 4:59 PM,,26/fev/26 4:59 PM,,0,"Solicito um apoio para analise de dados, Para o cliente Sylvamo.
+
+Foi analisado e identificado que os dados referentes ao display 24168 e 
+25418, estão sem transmitir a um longo período, provável causa de falta de arquivos na plataforma SWS.",,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,;26/fev/26 4:59 PM;633212a0fedc6169aed6fd7c;2580,,,0,2580,,,0,2580,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3666d12d,,,,"Foi analisado e identificado que o display 292151 está desde o dia 20/01/2026 até hoje sem dados, ocorreu uma atualização de CTI e o display perdeu as configurações de Log devido a isso não sincronizou a nuvem e não houve arquivos transmitidos.
+
+
+
+Devolutiva ao técnico [~accountid:712020:21e2d9c9-0f61-4500-b7e0-312746cc1897] via Whatsapp.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,26/fev/26 4:00 PM,26/fev/26 4:59 PM,26/fev/26 4:59 PM,26/fev/26 4:59 PM,,,,26/fev/26 4:00 PM,,,,,,,,,,,{},,,,,,,,,59.0,0.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03tzi:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_3284411_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_3284411_*|*_14518_*:*_1_*:*_0,,Itens concluídos,26/fev/26 4:59 PM
+6.500 - Solicitação Apoio Analise de Dados,UNF2026-63,170666,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,03/fev/26 4:45 PM,25/fev/26 3:54 PM,,25/fev/26 3:53 PM,,0,"*Descrição:*
+Solicitamos apoio do *Analista Adenilton* para análise e correção de *erros nos dados do cliente Sylvamo*, relacionados ao *provedor JRM*.
+
+Foram identificadas inconsistências que estão impactando o processamento/validação dos dados do cliente. Necessário verificar a origem do erro, realizar os ajustes necessários e orientar quanto à correção definitiva.
+
+*Cliente:* Sylvamo
+*Provedor:* JRM
+
+*Atividades esperadas:*
+
+* Analisar os dados com erro
+* Identificar a causa raiz
+* Corrigir ou orientar a correção
+* Retornar com evidências e conclusão
+*Responsável (Assignee):* Adenilton
+
+* Ajustado juntamento com o técnico Welinton - Erros identificados: Arquivo de barra de luz sendo lançados como funções de controle.",,Welinton Silva,712020:21e2d9c9-0f61-4500-b7e0-312746cc1897,;06/fev/26 9:54 AM;633212a0fedc6169aed6fd7c;7200,;25/fev/26 3:54 PM;633212a0fedc6169aed6fd7c;18000,10800,0,25200,233%,10800,0,25200,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@14084eed,,,,"Enviado e até o devido momento o cliente não nos retornou com as devidas informações.
+
+O cliente no retornou, e realizamos as devidas ánalises, identificado que houve operação sem leitura do fluxêometro, no display 2694.
+Retornado ao cliente via e-mail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,03/fev/26 12:00 PM,,,03/fev/26 11:00 AM,25/fev/26 9:21 AM,25/fev/26 3:53 PM,03/fev/26 11:00 AM,,,,03/fev/26 11:00 AM,,,,,,,,,,,{},,,,,,31521.0,,,5.0,392.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03ose:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_52753_*|*_14517_*:*_1_*:*_234553141_*|*_14518_*:*_1_*:*_0_*|*_14521_*:*_1_*:*_1639511890,14519_*:*_1_*:*_52753_*|*_14517_*:*_1_*:*_234553141_*|*_14518_*:*_1_*:*_0_*|*_14521_*:*_1_*:*_1639511890,,Itens concluídos,25/fev/26 3:53 PM
+6.500 Apoio Técnico- Reprocessamento de Dados Suzano - Trator Hulk,UNF2026-75,173662,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Lucas Petenuci,712020:8a2a2f7c-723a-43db-a06f-0cf0d1a65b4c,Lucas Petenuci,712020:8a2a2f7c-723a-43db-a06f-0cf0d1a65b4c,12/fev/26 9:44 AM,20/fev/26 8:32 PM,,20/fev/26 8:31 PM,,0,"Apoio para reprocessamento de dados, Trator Hulk, cliente Suzano - SP",,Lucas Petenuci,712020:8a2a2f7c-723a-43db-a06f-0cf0d1a65b4c,;20/fev/26 8:32 PM;633212a0fedc6169aed6fd7c;3600,,,0,3600,,,0,3600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1af42e5a,,,,Ajustado conforme o padrão. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,20/fev/26 10:32 AM,12/fev/26 9:50 AM,,,,12/fev/26 9:48 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03qya:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_620_*|*_14520_*:*_1_*:*_0,14517_*:*_1_*:*_620_*|*_14520_*:*_1_*:*_0,,Itens concluídos,20/fev/26 8:31 PM
+6.500 - Apoio Cadastro Eucatex,UNF2026-71,172291,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,09/fev/26 7:11 PM,20/fev/26 8:29 PM,,20/fev/26 8:27 PM,,0,"Preciso de informações quanto a incursão de nomenclatura de atividade e motivos de parada, gostaria de saber se como técnico haveria a possibilidade de criação e caso não gostaria de incluir novo banco de dados a pedido da Cliente Eucatex.",,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,;20/fev/26 8:29 PM;633212a0fedc6169aed6fd7c;3600,,,0,3600,,,0,3600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@52c71461,,,,Ajustado conforme o padrão ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,20/fev/26 9:29 AM,10/fev/26 9:15 AM,,,,10/fev/26 9:09 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03q8y:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_52042579_*|*_14520_*:*_1_*:*_0,14517_*:*_1_*:*_52042579_*|*_14520_*:*_1_*:*_0,,Itens concluídos,20/fev/26 8:27 PM
+6.500 - Análise de Atualização de Equipamentos no Control Room,UNF2026-69,171702,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,06/fev/26 10:29 AM,19/fev/26 1:21 PM,,06/fev/26 10:29 AM,,0,"
+Foi realizado um bate-papo com o coordenador *Roniel Dias* para tratar de uma análise no *Control Room*, com foco na *atualização de equipamentos*.
+
+*Ações Realizadas*
+
+* Alinhamento inicial sobre o cenário atual dos equipamentos no Control Room.
+* Discussão dos impactos e necessidades relacionadas à atualização.
+* Esclarecimento de pontos técnicos e operacionais.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;19/fev/26 1:21 PM;633212a0fedc6169aed6fd7c;7620,,14400,6780,7620,52%,14400,6780,7620,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2cb1f634,,,,Analisado e ajustado conforme o esperado.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,05/fev/26 3:00 PM,05/fev/26 12:00 PM,,,,05/fev/26 11:00 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03ppy:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_423,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_423,,Itens concluídos,06/fev/26 10:29 AM
+6.500 - Analise Dados EPS JL Vivaldini,UNF2026-74,173149,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,11/fev/26 7:58 AM,13/fev/26 2:27 PM,,13/fev/26 2:27 PM,,0,"h3. Resumo
+
+Após alterações no provider list da JL Vivaldini, foram identificadas divergências nos dados operacionais da empresa. É necessária uma nova revisão.
+
+h3. Contexto
+
+As divergências foram notadas após mudanças feitas pelo P&D. Os bordos afetados são 290089, 20443, 290090 e o 21616.
+
+h3. Critérios de aceitação
+
+* Revisão dos dados operacionais para os bordos:
+** 290089
+** 20443
+** 290090
+** 21616
+
+h3. Outras informações
+
+N/A",,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,;13/fev/26 2:26 PM;633212a0fedc6169aed6fd7c;7980,,,0,7980,,,0,7980,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7d816454,,,,Foi retornado o e-mail do cliente com todas as informações.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,13/fev/26 11:33 AM,11/fev/26 1:00 PM,,,,11/fev/26 7:00 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03qkq:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_4179580_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_4179580_*|*_14518_*:*_1_*:*_0,,Itens concluídos,13/fev/26 2:27 PM
+6.500 - Doc. Orientação baixar arquivo SHP do OM,UNF2026-70,172129,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Roniel Dias,60dc6c037d016900702ba63d,Roniel Dias,60dc6c037d016900702ba63d,09/fev/26 11:15 AM,10/fev/26 3:28 PM,,10/fev/26 3:28 PM,,0,"Criar um documento com orientações para baixar arquivo SHP do OM e descompactar da pasta, na SUZANO o pessoal está reclamando de dificuldade de acesso aos arquivos baixados em pasta que não descompacta do Zip.",,Roniel Dias,60dc6c037d016900702ba63d,;10/fev/26 3:27 PM;633212a0fedc6169aed6fd7c;3000,,,0,3000,,,0,3000,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7e68f97f,,,,Enviado ao solicitante conforme o padrão solicitado.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,11/fev/26 12:00 PM,09/fev/26 11:00 AM,,,,09/fev/26 11:00 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,,,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03q2q:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_101610476,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_101610476,,Itens concluídos,10/fev/26 3:28 PM
+6.500 - Associação Provedor JFI ao Prod. Eucatex,UNF2026-60,169561,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,30/jan/26 5:16 PM,30/jan/26 9:31 PM,,30/jan/26 9:31 PM,,0,"h3. Resumo
+
+A JFI está entrando no contrato com a Eucatex. É necessário incluir a empresa na plataforma Control Room.
+
+h3. Contexto
+
+A JFI precisa ser associada ao contrato Eucatex.
+
+h3. Critérios de aceitação
+
+* Incluir a JFI na plataforma Control Room.
+
+h3. Outras informações
+
+N/A",,Johnny Nascimento,712020:6c42c3f9-35c5-48d4-9271-bfa26979c0c4,;30/jan/26 9:30 PM;633212a0fedc6169aed6fd7c;600,,,0,600,,,0,600,,30/jan/26 5:16 PM;e8cfcaf8-0790-4fc3-9c04-fa7b74df305d;image-20260130-211756.png;https://agguidance.atlassian.net/rest/api/3/attachment/content/160204,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4217b882,,,,Retornado as partes interessadas via grupo de Whatsapp.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,,30/jan/26 9:36 PM,30/jan/26 9:26 PM,,,,30/jan/26 5:00 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Não,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JIRA ,Teams,WhatsApp - PV,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03n1c:1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_14893852_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_14893852_*|*_14518_*:*_1_*:*_0,,Itens concluídos,30/jan/26 9:31 PM
+6.500 - Provedor JL Vivaldini sem opção de inserção de arquivos e falha no envio para SWS após atualizações,UNF2026-56,169163,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,29/jan/26 10:26 AM,29/jan/26 11:50 AM,,29/jan/26 11:49 AM,,0,"h3. *Descrição*
+
+O técnico *Johnny* informou que o *provedor JL Vivaldini* está enfrentando dificuldades nos lançamentos de dados.
+
+Segundo o relato:
+
+* O provedor *não encontra a função/opção para inserção de arquivos* no sistema.
+* Após as *atualizações recentes*, os *arquivos não estão chegando à plataforma SWS*, mesmo quando gerados/enviados pelo provedor.
+
+O problema está impactando diretamente o fluxo de envio e processamento de dados na SWS.
+
+h3. *Passos relatados*
+
+# Provedor tenta realizar lançamento de dados.
+# Não localiza a função para inserção do arquivo.
+# Após atualizações do sistema, arquivos enviados não aparecem/processam na SWS.
+
+h3. *Resultado esperado*
+
+* Função de inserção de arquivos disponível normalmente para o provedor.
+* Arquivos enviados após atualizações sendo corretamente recebidos e processados na plataforma SWS.
+
+h3. *Resultado atual*
+
+* Função de inserção indisponível ou não visível.
+* Arquivos não chegam à SWS após atualizações.
+
+h3. *Provedor*
+
+JL Vivaldini
+
+h3. *Canal de origem*
+
+Relato técnico – Johnny
+
+h3. ",,Adenilton Silva,633212a0fedc6169aed6fd7c,;29/jan/26 11:49 AM;633212a0fedc6169aed6fd7c;5100,,,0,5100,,,0,5100,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@dc8bdd9,,,,"Foram todos os dysplay analisados, os mesmos estão transmitindo conforme o esperado, porém tiveram que ser realizados alguns ajustes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,29/jan/26 11:50 AM,29/jan/26 10:30 AM,,,,29/jan/26 9:30 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03n1c:9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_27611_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_27611_*|*_14518_*:*_1_*:*_0,,Itens concluídos,29/jan/26 11:49 AM
+6.500 - Apoio técnico – Análise de transmissão de dados | Cliente Dexco,UNF2026-51,168936,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,28/jan/26 10:02 AM,28/jan/26 10:02 AM,,28/jan/26 10:02 AM,,0,"Foi realizado apoio técnico ao colaborador *Lucas Antunes*, relacionado à *análise de transmissão de dados do cliente Dexco*. A atividade teve como objetivo verificar a integridade e a recorrência do envio de dados dos dispositivos em operação.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;28/jan/26 10:02 AM;633212a0fedc6169aed6fd7c;2640,,3600,960,2640,73%,3600,960,2640,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5ea239e2,,,,"Foi identificado que *diversos displays não realizam transmissão de dados há um longo período*, indicando possível falha de comunicação, inatividade dos equipamentos ou necessidade de intervenção técnica para restabelecimento da transmissão.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,27/jan/26 5:53 PM,27/jan/26 5:15 PM,,,,27/jan/26 5:10 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03nhy:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_13772,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_13772,,Itens concluídos,28/jan/26 10:02 AM
+6.500 - Atualização de Base Cadastral – Shapefile Fazendas/Talhões,UNF2026-44,168283,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,23/jan/26 8:46 AM,23/jan/26 2:27 PM,,23/jan/26 2:26 PM,,0,"h3.  *Descrição*
+
+Encaminhado shapefile atualizado da *base cadastral*, contendo informações de *fazendas e talhões*, para atualização no sistema.
+
+O arquivo foi enviado compactado (.zip) e deve ser validado e incorporado à base vigente.
+
+----
+
+h3. 🧾 *Detalhes Técnicos*
+
+* *Conteúdo:* Fazendas e Talhões
+* *Tipo de arquivo:* Shapefile (.shp + arquivos auxiliares)
+* *Formato de envio:* {{.zip}}
+* *Ação necessária:*
+** Validar integridade do shapefile
+** Conferir projeção/cartografia
+** Atualizar base cadastral no sistema
+
+----
+
+h3. 📎 *Anexo*
+
+* {{shp_talhoes.zip}}
+
+----
+
+h3. 👤 *Remetente*
+
+Giulia de Crescenzo Fernandes
+Eucatex – Silvicultura
+
+----
+
+h3. ✅ *Critério de Conclusão*
+
+* Base cadastral atualizada
+* Geometrias validadas e disponíveis no sistema
+
+h3. *Ações :*    
+
+Cadastrado e retornado o e-mail.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;23/jan/26 2:26 PM;633212a0fedc6169aed6fd7c;1980,,3600,1620,1980,55%,3600,1620,1980,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@14670af8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,,23/jan/26 2:30 PM,23/jan/26 1:55 PM,,,,22/jan/26 7:57 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03mdq:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_18670451_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_18670451_*|*_14518_*:*_1_*:*_0,,Itens concluídos,23/jan/26 2:26 PM
+6.500 - Cadastro da máquina Maindra 9500S – 429 e envio de CTI remota,UNF2026-37,167982,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,21/jan/26 3:15 PM,21/jan/26 3:15 PM,,21/jan/26 3:15 PM,,0,"h3. *Descrição*
+
+O técnico *Anderson*, responsável pelo apoio do *provedor JRM*, entrou em contato solicitando o *cadastro da máquina Maindra 9500S – nº 429*, informando que o equipamento havia sido *recém-instalado*.
+
+Foi informado que o *display nº 26929*, anteriormente instalado na *máquina 407*, foi *migrado para a máquina 429*, juntamente com os demais componentes.
+
+----
+
+h3. *Atendimento realizado*
+
+* ✅ Cadastro da máquina *Maindra 9500S – 429*
+* ✅ Envio de *CTI remota*
+
+----
+
+h3. *Orientações*
+
+O técnico Anderson foi orientado a *encaminhar todas as informações e evidências necessárias* ao *técnico responsável da Hexagon, Welinton Estevão*, para acompanhamento e validação do processo.
+
+----
+
+h3. *Status*
+
+Atendido / Aguardando evidências (caso aplicável)",,Adenilton Silva,633212a0fedc6169aed6fd7c,;21/jan/26 3:15 PM;633212a0fedc6169aed6fd7c;900,,1800,900,900,50%,1800,900,900,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@20d4eea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,21/jan/26 3:20 PM,21/jan/26 3:00 PM,,,,21/jan/26 3:00 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03luu:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_9011,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_9011,,Itens concluídos,21/jan/26 3:15 PM
+6.500 - Dados não transmitidos para o SWS – Erro de geometria não cadastrada (SUZANO | Reflorestar | Limpeza de Linha de Plantio),UNF2026-33,167641,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,19/jan/26 8:49 AM,21/jan/26 2:26 PM,,21/jan/26 2:26 PM,,0,"h3. *Descrição*
+
+Foi identificado, juntamente com o técnico *William Queiroz*, que os dados do cliente *SUZANO*, *provedor Reflorestar*, na *função Limpeza de Linha de Plantio*, *não estão chegando ao SWS*.
+
+Os registros *chegam corretamente ao OM*, porém com o erro *“geometria não cadastrada”*. *Os dados não são transmitidos do OM para o SWS*, impossibilitando a visualização e o processamento da operação no SWS.
+
+----
+
+h3. *Cenário Identificado*
+
+* Cliente: *SUZANO*
+* Provedor: *Reflorestar*
+* Função: *Limpeza de Linha de Plantio*
+* Sistema de origem: *OM*
+* Sistema de destino: *SWS*
+
+----
+
+h3. *Comportamento Atual*
+
+* Dados *chegam no OM*
+* OM apresenta erro: *geometria não cadastrada*
+* Dados *não são enviados/transmitidos para o SWS*
+
+----
+
+h3. *Comportamento Esperado*
+
+* Geometria reconhecida corretamente no OM
+* Dados transmitidos normalmente para o *SWS*
+* Operação disponível para visualização e validação no SWS
+
+----
+
+h3. *Impacto*
+
+* Operação não disponível no SWS
+* Falha no fluxo operacional entre OM → SWS
+* Possível atraso em análises, validações e faturamento
+
+h3. *Ações:* 
+
+Ajustado, era a ligação no Admin do OM que estava desligada para o SWS.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;21/jan/26 2:25 PM;633212a0fedc6169aed6fd7c;2820,,7200,4380,2820,39%,7200,4380,2820,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@498d6fc6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,19/jan/26 9:00 AM,,,,,19/jan/26 7:00 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03l8e:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_193066624,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_193066624,,Itens concluídos,21/jan/26 2:26 PM
+6.500 - Apoio Suzano - Dowload SHP - OM,UNF2026-27,167301,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,15/jan/26 4:09 PM,15/jan/26 4:09 PM,,15/jan/26 4:09 PM,,0,"h3. Resumo
+
+A gestora Gabriela Munhoz, da Suzano - SP, solicitou apoio para download de arquivos Shapefile da plataforma OM.
+
+h3. Contexto
+
+O apoio foi fornecido via Teams. Durante a interação, foram sanadas as dúvidas da gestora.
+
+h3. Critérios de aceitação
+
+* Apoio solicitado via Teams.
+* Download dos arquivos Shapefile da plataforma OM.
+* Dúvidas da gestora sanadas.
+
+h3. Outras informações
+
+N/A",,Adenilton Silva,633212a0fedc6169aed6fd7c,;15/jan/26 4:09 PM;633212a0fedc6169aed6fd7c;1200,,1800,600,1200,66%,1800,600,1200,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2b699f69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,15/jan/26 2:50 PM,15/jan/26 2:30 PM,,,,15/jan/26 2:30 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Teams,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03ky6:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_47509,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_47509,,Itens concluídos,15/jan/26 4:09 PM
+6.500 -  Reprocessar arquivos da The Navigator a partir de 12/01/2026 (área cadastrada em 14/01/2026),UNF2026-24,167060,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,14/jan/26 2:19 PM,15/jan/26 8:57 AM,,15/jan/26 8:57 AM,,0,"Reprocessar todos os arquivos da The Navigator a partir de *12/01/2026*, garantindo que sejam corretamente vinculados à área cadastrada em *14/01/2026*.
+
+----
+
+h3. 🗓️ Período afetado
+
+* *Início:* 12/01/2026
+* *Cadastro da área:* 14/01/2026
+
+----
+
+h3. ⚠️ Impacto
+
+* Dados históricos incompletos ou inconsistentes
+* Possível divergência em métricas operacionais e relatórios
+* Análises comprometidas no período anterior ao cadastro da área
+
+----
+
+h3. 🔧 Ações necessárias
+
+* Identificar todos os arquivos da The Navigator enviados a partir de 12/01/2026
+* Executar reprocessamento considerando a área cadastrada em 14/01/2026
+* Validar se os dados foram corretamente consolidados após o reprocesso
+* Confirmar integridade das métricas e relatórios afetados
+
+----
+
+h3. ✅ Critérios de aceitação
+
+* Todos os arquivos desde 12/01/2026 corretamente associados à área
+* Dados visíveis e consistentes nas plataformas/relatórios
+* Nenhuma divergência residual no período reprocessado
+
+h3. Ações 
+
+Havia apenas um arquivo com alarme de falta de área, o memso foi reprocessado e efetivou conforme o esperado.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;15/jan/26 8:56 AM;633212a0fedc6169aed6fd7c;900,,3600,2700,900,25%,3600,2700,900,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4359f605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,14/jan/26 5:54 PM,14/jan/26 5:30 PM,,,,14/jan/26 2:00 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03kme:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_67070119,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_67070119,,Itens concluídos,15/jan/26 8:57 AM
+6.500 - Cadastro de área – Cliente Navigator,UNF2026-19,166995,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,13/jan/26 4:54 PM,14/jan/26 9:35 AM,,14/jan/26 9:35 AM,,0,"h3. *Descrição*
+
+Solicitação de cadastro de área do cliente *Navigator*.
+
+O cliente havia enviado inicialmente um e-mail *sem o anexo dos mapas* necessários para o cadastro.
+
+
+Após nossa solicitação de reenvio, o cliente retornou com *todas as informações e arquivos corretos*, possibilitando a continuidade do processo.
+
+
+
+h3. *Contexto*
+
+* Primeiro contato: e-mail enviado *sem mapas anexados*
+* Ação: solicitado reenvio dos arquivos
+* Status atual: *informações e mapas recebidos corretamente*
+
+h3. *Anexos*
+
+* Mapas de área (conforme retorno do cliente)
+
+h3. *Ação necessária*
+
+* Realizar o cadastro da área do cliente Navigator no sistema
+
+h3. *Ação:*
+
+Cadastrado conforme o solicitado.
+
+!image-20260114-123442.png|width=677,alt=""image-20260114-123442.png""!",,Adenilton Silva,633212a0fedc6169aed6fd7c,;14/jan/26 9:34 AM;633212a0fedc6169aed6fd7c;1500,,3600,2100,1500,41%,3600,2100,1500,,14/jan/26 9:34 AM;633212a0fedc6169aed6fd7c;image-20260114-123442.png;https://agguidance.atlassian.net/rest/api/3/attachment/content/157937,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2e120435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,14/jan/26 9:35 AM,,,,,13/jan/26 12:00 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03kk6:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_53240503_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_53240503_*|*_14518_*:*_1_*:*_0,,Itens concluídos,14/jan/26 9:35 AM
+6.500 - Dificuldade Acesso OM,UNF2026-1,166406,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,05/jan/26 12:20 PM,13/jan/26 4:48 PM,,13/jan/26 4:47 PM,05/jan/26 12:00 AM,0,"h3. Resumo
+
+O cliente JJFM teve dificuldade de acesso à plataforma OM. Isso impede a inserção de dados e a análise de relatórios.
+
+h3. Contexto
+
+Recentemente, a plataforma passou por melhorias que causaram restrições temporárias de acesso para alguns usuários. O caso está sob acompanhamento interno até a normalização do serviço.
+
+h3. Critérios de Aceite
+
+* Cliente confirmar acesso normal à plataforma OM.
+* Inserção de dados e geração de relatórios funcionando corretamente.
+* Validação do restabelecimento do serviço.
+* Avaliação e alinhamento sobre a prorrogação do prazo de acesso, se aplicável.
+
+h3. Outras informações
+
+* Cliente solicitou formalmente a prorrogação do prazo de acesso.
+* Fluxo de Comunicação:
+** Cliente reporta falha de acesso à plataforma OM.
+** Confirmação interna de restrição após melhorias na plataforma.
+** Acompanhamento do caso pelo time responsável.
+** Cliente solicita prorrogação de prazo devido à indisponibilidade.
+** Ajustes realizados e solicitação de novo teste de acesso pelo cliente.
+* Ações Realizadas:
+** Análise do incidente junto ao time responsável.
+** Ajustes internos na plataforma OM.
+** Comunicação com o cliente informando normalização iminente.
+** Solicitação de novo teste de acesso ao sistema.
+* Resultado Atual: Plataforma ajustada e cliente orientado a testar novamente o acesso.
+
+Cliente solicitou um informação na data 12/01/2026 - respondemos o mesmo, referente a transmissão de dados.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;05/jan/26 12:28 PM;633212a0fedc6169aed6fd7c;2340,;13/jan/26 4:48 PM;633212a0fedc6169aed6fd7c;1380,,0,3720,,,0,3720,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@608f1c76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,,05/jan/26 12:30 PM,05/jan/26 10:30 AM,,,,04/jan/26 7:26 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Não,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Análise e Diagnóstico de Bugs na Plataforma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03j7y:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_223272_*|*_14521_*:*_1_*:*_0,14517_*:*_1_*:*_223272_*|*_14521_*:*_1_*:*_0,,Itens concluídos,13/jan/26 4:47 PM
+6.500 - Alinhamento CR Suzano.,UNF2026-14,166933,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,William Silva de Queiroz,712020:711a0862-2da9-45eb-9e64-8116dc000ec6,William Silva de Queiroz,712020:711a0862-2da9-45eb-9e64-8116dc000ec6,13/jan/26 10:21 AM,13/jan/26 2:37 PM,,13/jan/26 2:35 PM,,0,"h3. Resumo
+
+Realizar um alinhamento via Teams sobre o CR da Suzano - SP.
+
+h3. Contexto
+
+N/A
+
+h3. Critérios de aceitação
+
+N/A
+
+h3. Outras informações
+
+N/A",,William Silva de Queiroz,712020:711a0862-2da9-45eb-9e64-8116dc000ec6,;13/jan/26 2:36 PM;633212a0fedc6169aed6fd7c;2160,,,0,2160,,,0,2160,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5995b219,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,,13/jan/26 2:37 PM,13/jan/26 2:00 PM,,,,13/jan/26 10:35 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03kba:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14517_*:*_2_*:*_481_*|*_14521_*:*_1_*:*_655423,14517_*:*_2_*:*_481_*|*_14521_*:*_1_*:*_655423,,Itens concluídos,13/jan/26 2:35 PM
+6.500 - Título  Dados do dia 31/12/2025 não registrados – Plataforma,UNF2026-12,166842,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,12/jan/26 10:33 AM,13/jan/26 10:29 AM,,12/jan/26 11:49 AM,,0,"h3. Resumo
+
+Dados do dia 31/12/2025 não foram registrados na plataforma, apesar do acesso estar funcionando corretamente.
+
+h3. Contexto
+
+O acesso à plataforma já está disponível e funcionando. No entanto, os dados referentes ao dia 31/12/2025 não foram registrados, resultando na ausência de pontos para essa data.
+
+h3. Critérios de aceitação
+
+* Verificar a causa da ausência dos dados do dia 31/12/2025.
+* Avaliar a possibilidade de reprocessamento ou recuperação dos pontos.
+* Confirmar se houve falha de coleta, transmissão ou integração.
+
+h3. Outras informações
+
+* Data de referência: 31/12/2025
+* Um e-mail foi enviado ao cliente em 12/01/2026 e um arquivo correspondente à data pendente foi recebido.
+
+Dado apoio devido ao coordenador Roniel Dias estar de férias no determinado período.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;12/jan/26 11:48 AM;633212a0fedc6169aed6fd7c;2280,;13/jan/26 10:29 AM;633212a0fedc6169aed6fd7c;1320,3600,0,3600,100%,3600,0,3600,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7ff8f8b5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,,13/jan/26 10:30 AM,12/jan/26 10:33 AM,,,,11/jan/26 8:13 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Não,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03k7a:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.500,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_4563307,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_4563307,,Itens concluídos,12/jan/26 11:49 AM

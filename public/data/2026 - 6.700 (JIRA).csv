@@ -1,0 +1,381 @@
+﻿Resumo,Chave da item,ID da item,Tipo de item,Status,Chave do projeto,Nome do projeto,Tipo de projeto,Líder do projeto,ID do líder do projeto,Descrição do projeto,Prioridade,Resolução,Responsável,ID do responsável,Relator,ID do relator,Criador,ID do criador,Criado,Atualizado(a),Última visualização,Resolvido,Data limite,Votos,Descrição,Ambiente,Seguidores,ID dos seguidores,Registro de Trabalho,Registro de Trabalho,Estimativa original,Estimativa de trabalho restante,Tempo gasto,Razão Trabalhada,Σ da Estimativa Original,Σ Estimativa de trabalho restante,Σ de Tempo Gasto,Nível de Segurança,Campo personalizado (AI Eligible),Campo personalizado (Acceptance Criteria),Campo personalizado (Account),Campo personalizado (Activity Type),Campo personalizado (Affected Customers),Campo personalizado (Affected Version/s),Campo personalizado (Affected hardware),Campo personalizado (Affected services),Campo personalizado (Allocated Type),Campo personalizado (Allocation),Campo personalizado (Alocação ou realocação de responsabilidades),Campo personalizado (Ambiente),Campo personalizado (Ambiente_GDC),Campo personalizado (Amount),Campo personalizado (Análise crítica),Campo personalizado (Aplicar ação imediata?),Campo personalizado (Approval timestamp),Campo personalizado (Approval/Reproval Reason),Campo personalizado (Approvals),Campo personalizado (Aprovador),Campo personalizado (Ação Corretiva),Campo personalizado (Ação de contenção/correção),Campo personalizado (Ações Realizadas),Campo personalizado (Ações Tomadas),Campo personalizado (Backout plan),Campo personalizado (Bucket),Campo personalizado (Bug Impact),Campo personalizado (Bug origin),Campo personalizado (Build Type),Campo personalizado (CLIENTE),Campo personalizado (CPOC),Campo personalizado (Categoria),Campo personalizado (Categoria da causa),Campo personalizado (Causa Raiz_GDC),Campo personalizado (Challenge Rating),Campo personalizado (Change Reason),Campo personalizado (Change Type),Campo personalizado (Change Type),Campo personalizado (Change completion date),Campo personalizado (Change reason),Campo personalizado (Change risk),Campo personalizado (Change start date),Campo personalizado (Change type),Campo personalizado (Checklist completion percentage),Campo personalizado (Checklist completion summary),Campo personalizado (Classification),Campo personalizado (Classification),Campo personalizado (Cliente),Campo personalizado (Clientes_GDC),Campo personalizado (Cloud Reviewed),Campo personalizado (Cloud Reviewer),Campo personalizado (Comentário),Campo personalizado (Comentários),Campo personalizado (Companies),Campo personalizado (Complexidade Técnica),Campo personalizado (Component /s),Campo personalizado (Componente),Campo personalizado (Componente_GDC),Campo personalizado (Contact),Campo personalizado (Contato (e-mail ou telefone)),Campo personalizado (Contingency Plan),Campo personalizado (Controle de Projeto Fechado),Campo personalizado (Controle de Projetos_GDC),Campo personalizado (Cost Impact),Campo personalizado (Cost center),Campo personalizado (Custo),Campo personalizado (Custo),Campo personalizado (Customer Facing),Campo personalizado (D1 - Definir um time (Define a Team)),Campo personalizado (D2 - Definir Problema (Define the Problem)),Campo personalizado (D3 - Ação de Contenção (Define Containment)),Campo personalizado (D4 - Identificar Causa Raíz (Root Cause Analysis)),Campo personalizado (D5 - Listar Ações Corretivas (Permanent Corrective Actions)),Campo personalizado (D6 - Implementar e Validar Ação Corretiva (Validate Corrective Actions)),Campo personalizado (D7 - Ações de Prevenção (Preventing Recurrence)),Campo personalizado (DT Inicial DEV. Cliente),Campo personalizado (DT Inicial DEV. PD),Campo personalizado (DT Inicial DEV. Unidade),Campo personalizado (DT Inicial Pendentes),Campo personalizado (DT Inicial Progresso),Campo personalizado (Data Final),Campo personalizado (Data Inicial),Campo personalizado (Data Planejada),Campo personalizado (Data Realizada),Campo personalizado (Data da avaliação de eficácia),Campo personalizado (Data e H - Chamado),Campo personalizado (Data programada para avaliação da eficácia),Campo personalizado (Days for Approved),Campo personalizado (Days past due date),Campo personalizado (Deploy Priority),Campo personalizado (Deploy date),Campo personalizado (Descrição da causa raiz),Campo personalizado (Descrição dos resultados das ações tomadas),Campo personalizado (Descrição_GDC),Campo personalizado (Design classification),Campo personalizado (Designs ready),Campo personalizado (Development),Campo personalizado (Development Project),Campo personalizado (Discovery Phase),Campo personalizado (Disponibilidade de recursos),Campo personalizado (Distribution External),Campo personalizado (Domain),Campo personalizado (Duração Dev. Cliente),Campo personalizado (Duração Dev. PD),Campo personalizado (Duração Dev. Unidade),Campo personalizado (Duração Pendentes),Campo personalizado (Duração Progresso),Campo personalizado (ECO Description),Campo personalizado (ECO Time to Approve),Campo personalizado (EOL),Campo personalizado (EPIC relevance),Campo personalizado (Effort),"Campo personalizado (Em caso de NC de produto, preencha informações como Cliente e NS afetados)",Campo personalizado (Epic Colour),Campo personalizado (Epic Name),Campo personalizado (Epic Status),Campo personalizado (Estimated Obsolescence),Campo personalizado (Estimativa de pontos da história),Campo personalizado (Expected Result),Campo personalizado (Exposure),Campo personalizado (External Anom),Campo personalizado (Fix Version/s),Campo personalizado (Frequency),Campo personalizado (Goal impact),Campo personalizado (H - Comercial - 7 às 17),Campo personalizado (Habit),Campo personalizado (Hora de Deslocamento),Campo personalizado (Horas Trabalhadas),Campo personalizado (How-to),Campo personalizado (Ideia arquivada),Campo personalizado (Ideia arquivada em),Campo personalizado (Impact),Campo personalizado (Impact),Campo personalizado (Impact score),Campo personalizado (Impacto no Tempo),Campo personalizado (Impacto no Trabalho),Campo personalizado (Implementation plan),Campo personalizado (Incident Description),Campo personalizado (Incident Description),Campo personalizado (Incident Impact),Campo personalizado (Incident Origin),Campo personalizado (Insights),Campo personalizado (Insights impact),Campo personalizado (Investigation reason),Campo personalizado (Issue Development Finish),Campo personalizado (Issue Done),Campo personalizado (Issue Resolution Timestamp),Campo personalizado (Issue Start Development),Campo personalizado (Issue Testing Finish),Campo personalizado (Issue Testing Start),Campo personalizado (Issue color),Campo personalizado (Issue origin),Campo personalizado (Job role),Campo personalizado (Last Renew Date),Campo personalizado (Linked Issue),Campo personalizado (Locked forms),Campo personalizado (Logic Test),Campo personalizado (Líder),Campo personalizado (Major incident),Campo personalizado (Manufacturing Request Type),Campo personalizado (Material),Campo personalizado (Medição),Campo personalizado (Meio Ambiente),Campo personalizado (Meio de Comunicação),Campo personalizado (Membro 1),Campo personalizado (Membro 2),Campo personalizado (Membro 3),Campo personalizado (Membro 4),Campo personalizado (Membro 5),Campo personalizado (Motivo ),Campo personalizado (Motivo da recusa),Campo personalizado (Máquina),Campo personalizado (Mão de Obra),Campo personalizado (Método),Campo personalizado (Need TDN Label),Campo personalizado (New Structure Description),Campo personalizado (New Structure Request),Campo personalizado (Nome do Cliente),Campo personalizado (Notify via email),Campo personalizado (Numero da NF ou Declaração de conteudo),Campo personalizado (Número de Volumes),Campo personalizado (O material deve passar por inspeção?),Campo personalizado (Objetivos),Campo personalizado (Observação),Campo personalizado (Open forms),Campo personalizado (Operational categorization),Campo personalizado (Origem),Campo personalizado (Origem (PSR Supplier)),Campo personalizado (Origem_GDC),Campo personalizado (Orçamento),Campo personalizado (Other Products Affected),Campo personalizado (PCR Evaluation Lead Time),Campo personalizado (PM Approved),Campo personalizado (PM Approver),Campo personalizado (Parecer de Avaliação de eficácia ),Campo personalizado (Part Number/s and HW version/s affected),Campo personalizado (Passos para reproduzir),Campo personalizado (Pending reason),Campo personalizado (Planned end),Campo personalizado (Planned start),Campo personalizado (Portfolio),Campo personalizado (Potential Cost Impact),Campo personalizado (Potential Reach),Campo personalizado (Potential Schedule Impact),Campo personalizado (Prazo),Campo personalizado (Previsão de entrega),Campo personalizado (Prioritized by),Campo personalizado (Prioritized timestamp),Campo personalizado (Priority),Campo personalizado (Probability),Campo personalizado (Problem Classification),Campo personalizado (Problem Description),Campo personalizado (Problem Impact),Campo personalizado (Problem Impact v2),Campo personalizado (Problem Origin),Campo personalizado (Processo),Campo personalizado (Prod Description),Campo personalizado (Product Description),Campo personalizado (Product Part Number),Campo personalizado (Product Team),Campo personalizado (Product Type),Campo personalizado (Product area),Campo personalizado (Product categorization),Campo personalizado (Produto (Product)),Campo personalizado (Produto / Modulo _GDC),Campo personalizado (Progresso da entrega),Campo personalizado (Project),Campo personalizado (Project key),Campo personalizado (Project of origin),Campo personalizado (Project official docs),Campo personalizado (Project overview key),Campo personalizado (Project overview status),Campo personalizado (Projeto),Campo personalizado (Projeto da Atlassian),Campo personalizado (Proposed Material Disposition),Campo personalizado (Public description),Campo personalizado (Quantidade),Campo personalizado (Quantity),Campo personalizado (Quarters),Campo personalizado (R&D Request Type),Campo personalizado (R&D area),Campo personalizado (RDSR: Issue development finished),Campo personalizado (Rank),Campo personalizado (Realization),Campo personalizado (Reanalysis Date),Campo personalizado (Referência),Campo personalizado (Reject_count),Campo personalizado (Replicon),Campo personalizado (Reporting timestamp),Campo personalizado (Reporting tool),Campo personalizado (Request Customer),Campo personalizado (Request Description),Campo personalizado (Request Origin),Campo personalizado (Request Type),Campo personalizado (Request language),Campo personalizado (Request participants),Campo personalizado (Requested Team),Campo personalizado (Required qa test),Campo personalizado (Requires documentation review),Campo personalizado (Residual Exposure),Campo personalizado (Residual Impact),Campo personalizado (Residual Probability),Campo personalizado (Resolved sprint),Campo personalizado (Responders),Campo personalizado (Responsible),Campo personalizado (Responsável ação de contenção),Campo personalizado (Reviewed by support team timestamp),Campo personalizado (Rework Finish Goods),Campo personalizado (Riscos e oportunidades),Campo personalizado (Risk Scope Area),Campo personalizado (Roadmap),Campo personalizado (Root cause),Campo personalizado (Run Automation),Campo personalizado (SLA),Campo personalizado (SLA - Certification Execution),Campo personalizado (SLA - Entrega),Campo personalizado (SLA - Entrega - Consultoria),Campo personalizado (SLA - Geral),Campo personalizado (SLA - Hexagon),Campo personalizado (SLA - P&D),Campo personalizado (SLA - PCR Approval),Campo personalizado (SLA - PCR Certification Execution),Campo personalizado (SLA - PCR Evaluation),Campo personalizado (SLA - Raízen),Campo personalizado (SLA - Severidade),Campo personalizado (SLA - Suporte),Campo personalizado (SLA - TDN Review and Approval),Campo personalizado (SOW Number),Campo personalizado (SW Approved),Campo personalizado (SW Approver),Campo personalizado (Safety/Cybersecurity),Classificação de satisfação,Campo personalizado (Satisfaction),Campo personalizado (Satisfaction date),Campo personalizado (Schedule/ Resource Impact),Campo personalizado (Sentiment),Campo personalizado (Setor),Campo personalizado (Severidade),Campo personalizado (Severidade (Severity)),Campo personalizado (Severity),Campo personalizado (Short description),Campo personalizado (Solicitação Predial),Campo personalizado (Solicitação TI),Campo personalizado (Solution),Campo personalizado (Solved timestamp),Campo personalizado (Source),Campo personalizado (Source),Campo personalizado (Spec ready),Campo personalizado (Start date),Campo personalizado (Status da entrega),Campo personalizado (Status do Projeto da Atlassian),Campo personalizado (Steps to Reproduce),Campo personalizado (Story Description),Campo personalizado (Story Points),Campo personalizado (Submitted forms),Campo personalizado (Summary),Campo personalizado (TDN Description),Campo personalizado (TDN Type),Campo personalizado (Target end),Campo personalizado (Target start),Campo personalizado (Team),Campo personalizado (Team RAO),Campo personalizado (Tema_GDC),Campo personalizado (Tempo Atendimento - Crítico),Campo personalizado (Tempo Atendimento Entrega),Campo personalizado (Tempo Cliente),Campo personalizado (Tempo Total),Campo personalizado (Tempo de Atendimento),Campo personalizado (Tempo de Suporte),Campo personalizado (Tempo de avaliação),Campo personalizado (Tempo para Atendimento),Campo personalizado (Tempo para Atendimento - Raízen),Campo personalizado (Tempo total do Chamado),Campo personalizado (Test objective),Campo personalizado (Test plan),Campo personalizado (Test result),Campo personalizado (Tickets vinculados),Campo personalizado (Time de trabalho),Campo personalizado (Time for avaliation),Campo personalizado (Time to Approve),Campo personalizado (Time to Arrival),Campo personalizado (Time to Execute),Campo personalizado (Time to approve normal change),Campo personalizado (Time to close after resolution),Campo personalizado (Time to done),Campo personalizado (Time to first response),Campo personalizado (Time to resolution),Campo personalizado (Tipo (Issue Type)),Campo personalizado (Tipo (Issue Type)),Campo personalizado (Tipo da não conformidade),Campo personalizado (Tipo de Não conformidade),Campo personalizado (Tipo_Projeto_GDC),Campo personalizado (Tipo_Serviço_GDC),Campo personalizado (Total forms),Campo personalizado (Trac Issue),Campo personalizado (Transition to Review Date),Campo personalizado (Transportadora),Campo personalizado (Treatment),Campo personalizado (Treatment Plan),Campo personalizado (UNIDADE),Campo personalizado (Unidade),Campo personalizado (Unidade Operacional Resolveria),Campo personalizado (Unidade de negócio),Campo personalizado (Unidade de negõcios),Campo personalizado (Urgency),Campo personalizado (Urgency),Campo personalizado (User Story),Campo personalizado (V&V Approved),Campo personalizado (V&V Approver),Campo personalizado (V&V Platform),Campo personalizado (Validated by SQA),Campo personalizado (Validation History),Campo personalizado (Validation Records),Campo personalizado (Vendor),Campo personalizado (Verification Criteria),Campo personalizado (Verified by SQA),Campo personalizado (Vulnerability),Campo personalizado (WIP for Removal),Campo personalizado (Work category),Campo personalizado (Workaround),Campo personalizado (Workaround Type),Campo personalizado ([CHART] Date of First Response),Campo personalizado ([CHART] Time in Status),Campo personalizado (time in status),Campo personalizado (Áreas de foco),Categoria do status,Categoria do status alterada
+6.700 - Atualização da base completa – Smurfit Westrock (Maio/2026) ,UNF2026-234,190501,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,07/mai/26 8:49 AM,07/mai/26 12:09 PM,07/mai/26 12:09 PM,07/mai/26 12:09 PM,,0,"A cliente [*Renata Rodrigues*|https://www.office.com/search?q=Renata+Rodrigues&EntityRepresentationId=3c38a70b-edda-4418-9c79-4255089b3612] (Smurfit Westrock) encaminhou a *base completa atualizada referente ao mês de maio/2026*, contemplando áreas próprias, parceria direta e arrendamento.
+
+*Arquivos recebidos em anexo:*
+
+* [Base_WGS_Maio_SW.zip|https://outlook.office365.com/owa/?viewmodel=IAttachmentViewModelPopoutFactory&AttachmentId=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ_psOrTZX-s0SR2rwgBwCxubeHrBb6TrH5trr1i-WQAAAAAAEMAACxubeHrBb6TrH5trr1i-WQAAU-IMK5AAABEgAQAGKVKLU7h0NCjbRVkPbdWus=&ItemId=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ+psOrTZX/s0SR2rwgBwCxubeHrBb6TrH5trr1i/WQAAAAAAEMAACxubeHrBb6TrH5trr1i/WQAAU/IMK5AAA=&AttachmentName=Base_WGS_Maio_SW.zip&EntityRepresentationId=66bc6a37-49d5-43c1-8038-62eabffa4b0b] (base geográfica em WGS84)
+* [Dados_Maio_2026.xlsx|https://outlook.office365.com/owa/?viewmodel=IAttachmentViewModelPopoutFactory&AttachmentId=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ_psOrTZX-s0SR2rwgBwCxubeHrBb6TrH5trr1i-WQAAAAAAEMAACxubeHrBb6TrH5trr1i-WQAAU-IMK5AAABEgAQAEmN90gsDsJGs_e9kqRVf5k=&ItemId=AAMkADNmYjliODY0LTA5ZjUtNDQzMC1hZTRkLWRkMzkwYmE1ZDU0YQBGAAAAAAA15eJ+psOrTZX/s0SR2rwgBwCxubeHrBb6TrH5trr1i/WQAAAAAAEMAACxubeHrBb6TrH5trr1i/WQAAU/IMK5AAA=&AttachmentName=Dados_Maio_2026.xlsx&EntityRepresentationId=0e3f7431-bd47-4514-8698-010b6d18b0a6] (dados tabulares da base)
+
+*Contexto:*
+
+* Atualização mensal recorrente de base cartográfica.
+* Substitui versões anteriores (março e abril/2026).
+* Base enviada já no sistema de coordenadas correto (WGS 84).
+
+*Ações esperadas:*
+
+* Validar integridade da base recebida.
+* Realizar cadastro/atualização da base no sistema.
+* Confirmar conclusão à cliente.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;07/mai/26 12:09 PM;633212a0fedc6169aed6fd7c;2400,,3600,1200,2400,66%,3600,1200,2400,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@76f3057f,,,,"Dados tratados e cadastrados, SWS e Atom ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,07/mai/26 8:48 AM,07/mai/26 11:29 AM,07/mai/26 12:09 PM,07/mai/26 11:29 AM,,,,07/mai/26 8:48 AM,,,,,,,,,,,{},,,,,,,,,161.0,40.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i048nk:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_9602685_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_9602685_*|*_14518_*:*_1_*:*_0,,Itens concluídos,07/mai/26 12:09 PM
+6.700 - Divergência de cadastro no mês de maio,UNF2026-224,188602,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,28/abr/26 9:45 AM,28/abr/26 10:33 AM,28/abr/26 10:33 AM,28/abr/26 10:33 AM,,0,"Identificada divergência de cadastro no mês de maio, sendo necessário realizar análise detalhada e possíveis reprocessamentos dos dados no período.
+
+*Contexto Técnico:*
+Foram observadas inconsistências nos dados cadastrados durante o mês de maio, impactando a confiabilidade das informações apresentadas nos relatórios e/ou operações vinculadas ao período.
+
+*Objetivo:*
+Garantir a integridade dos dados do mês de maio, corrigindo possíveis inconsistências por meio de análise técnica e reprocessamento.
+
+*Ações Técnicas:*
+
+* Levantamento e validação dos dados do período de maio
+* Identificação das inconsistências de cadastro
+* Execução de reprocessamento dos arquivos afetados
+* Validação pós-reprocessamento para garantir consistência dos dados
+
+*Critério de Encerramento:*
+
+* Dados do mês de maio analisados e corrigidos
+* Reprocessamento concluído com sucesso
+* Validação confirmando consistência das informações no sistema",,Adenilton Silva,633212a0fedc6169aed6fd7c,,,7200,7200,,0%,7200,7200,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@8e36349,,,,"Encontrados os dados e reprocessados.
+Ajustado conforme o esperado.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,28/abr/26 9:43 AM,28/abr/26 9:45 AM,28/abr/26 10:33 AM,28/abr/26 9:45 AM,,,,28/abr/26 9:43 AM,,,,,,,,,,,{},,,,,,,,,2.0,48.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - Grupo,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i0473c:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_9314_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_9314_*|*_14518_*:*_1_*:*_0,,Itens concluídos,28/abr/26 10:33 AM
+6.700 - Analisar Linhas de Plantio Plantar ,UNF2026-219,188231,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,25/abr/26 12:02 PM,25/abr/26 12:10 PM,25/abr/26 12:10 PM,25/abr/26 12:10 PM,,0,"O coordenador Roniel Dias solicitou apoio para análise das linhas de plantio do cliente Plantar.
+
+*Contexto Técnico:*
+Foi reportada a necessidade de validação das informações relacionadas às linhas de plantio cadastradas/processadas no ambiente do cliente, visando identificar possíveis inconsistências ou necessidade de ajustes.
+
+*Objetivo:*
+Realizar análise técnica das linhas de plantio do cliente Plantar e identificar eventuais correções necessárias.
+
+*Ações Técnicas:*
+
+* Validar dados atuais vinculados às linhas de plantio.
+* Verificar estrutura e consistência das informações disponíveis.
+* Identificar possíveis divergências operacionais ou cadastrais.
+* Direcionar ajustes, caso necessário.
+
+*Critério de Encerramento:*
+Análise concluída, inconsistências mapeadas e retorno realizado ao solicitante com posicionamento técnico.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;25/abr/26 12:10 PM;633212a0fedc6169aed6fd7c;1320,,1800,480,1320,73%,1800,480,1320,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@754bfc26,,,,"Foi identificado que o arquivo estava estruturado no formato multiline, sendo necessário que estivesse no formato line para compatibilidade com o processo. Foi realizada a conversão da geometria para o formato correto. Também foi verificado que não havia identificador único para cada linha. Como boa prática, orientamos que os próximos arquivos contenham um ID individual para cada linha, facilitando validações, rastreabilidade e futuros tratamentos.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,25/abr/26 11:04 AM,25/abr/26 12:02 PM,25/abr/26 12:10 PM,25/abr/26 12:02 PM,,,,25/abr/26 11:04 AM,,,,,,,,,,,{},,,,,,,,,58.0,8.0,,,,,,,,,,,,,,,,,,Não,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i046s0:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Talvez,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_10359_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_10359_*|*_14518_*:*_1_*:*_0,,Itens concluídos,25/abr/26 12:10 PM
+6.700 - Recebimento de base geométrica completa – atualização Março,UNF2026-147,180143,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,17/mar/26 11:45 AM,17/mar/26 4:36 PM,,17/mar/26 4:36 PM,,0,"Recebimento da base completa atualizada do cliente, incluindo áreas próprias, parceria direta e arrendamento, referente ao mês de março.
+
+*Contexto Técnico:*
+Foi disponibilizada pela cliente Renata Rodrigues a base completa atualizada, acompanhada dos arquivos anexos:
+
+* Dados_Marco_2026.xlsx
+* Base_WGS_Marco_SW.zip
+
+A base contempla todas as categorias operacionais (áreas próprias, parceria direta e arrendamento), sendo necessária para continuidade dos processos de análise, validação e possíveis atualizações cadastrais no sistema.
+
+*Objetivo:*
+Validar, analisar e preparar a base recebida para utilização nos processos internos, garantindo consistência e aderência aos padrões do sistema.
+
+*Ações Técnicas:*
+
+* Realizar validação estrutural dos arquivos recebidos (Excel e shapefile)
+* Verificar sistema de coordenadas (WGS) e integridade dos dados geográficos
+* Conferir consistência dos atributos e possíveis duplicidades
+* Avaliar compatibilidade com a base atual existente no sistema
+* Preparar base para eventual carga ou atualização cadastral
+
+*Critério de Encerramento:*
+
+* Arquivos validados sem inconsistências críticas
+* Base pronta para uso ou com ajustes devidamente identificados
+* Registro da análise documentado no ticket",,Adenilton Silva,633212a0fedc6169aed6fd7c,;17/mar/26 4:36 PM;633212a0fedc6169aed6fd7c;7380,,9600,2220,7380,76%,9600,2220,7380,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2b374455,,,,Base atualizada e retornado ao cliente via e-mail.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,17/mar/26 11:44 AM,17/mar/26 11:45 AM,17/mar/26 4:36 PM,17/mar/26 11:45 AM,,,,17/mar/26 11:44 AM,,,,,,,,,,,{},,,,,,,,,1.0,291.0,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Gestão de Dados e Integração,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03z4a:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14838_*:*_1_*:*_13508_*|*_14518_*:*_1_*:*_0,14838_*:*_1_*:*_13508_*|*_14518_*:*_1_*:*_0,,Itens concluídos,17/mar/26 4:36 PM
+6.700 - Cadastro de Nova Base – West Rock,UNF2026-79,174919,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,19/fev/26 7:57 AM,19/fev/26 10:10 AM,,19/fev/26 10:10 AM,,0,"h3. *Descrição:*
+
+O cliente *West Rock* enviou e-mail solicitando o cadastro de uma nova base no sistema.
+
+Inicialmente, foi informado que a base estava no sistema de coordenadas *Sirgas*, porém posteriormente o cliente encaminhou a base atualizada no sistema de coordenadas *WGS 84*.
+
+Arquivo recebido:
+Base_WGS_84_Fevereiro_SW (conforme anexo no e-mail)
+
+----
+
+h3. *Ações a serem tomadas:*
+
+* Validar projeção da base recebida (WGS 84).
+* Realizar cadastro da nova base no sistema.
+* Garantir que não haja duplicidade com bases anteriores.
+* Confirmar com o cliente após conclusão do cadastro.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;19/fev/26 10:09 AM;633212a0fedc6169aed6fd7c;2100,,3600,1500,2100,58%,3600,1500,2100,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2a34f4c1,,,,"Após o procedimento padrão, retornamos ao cliente via e-mail.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,19/fev/26 10:10 AM,19/fev/26 9:30 AM,,,,17/fev/26 5:26 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Não,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03rqy:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_7614916_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_7614916_*|*_14518_*:*_1_*:*_0,,Itens concluídos,19/fev/26 10:10 AM
+6.700 - Talhão sem operação aparece com área produtiva – WestRock-SC,UNF2026-72,172598,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,10/fev/26 9:47 AM,10/fev/26 9:48 AM,,10/fev/26 9:48 AM,,0,"A gestora Gabriela, colaboradora do cliente WestRock-SC, questionou via grupo de WhatsApp um talhão que não realizou operação, mas está aparecendo com área produtiva no sistema.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;10/fev/26 9:47 AM;633212a0fedc6169aed6fd7c;1800,,2400,600,1800,75%,2400,600,1800,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7e7970d4,,,,"As informações e conclusões da análise foram retornadas via grupo de WhatsApp, conforme o esperado.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,10/fev/26 9:47 AM,10/fev/26 9:00 AM,,,,10/fev/26 8:00 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - Grupo,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03qci:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_32648,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_32648,,Itens concluídos,10/fev/26 9:48 AM
+6.700 -   Recebimento de polígonos para input no sistema – Klabin,UNF2026-2,166407,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,05/jan/26 12:38 PM,03/fev/26 2:14 PM,,03/fev/26 2:13 PM,06/jan/26 12:00 AM,0,"A equipe da Klabin encaminhou arquivos contendo *polígonos de área produtiva* para realização de *input no sistema*, conforme alinhamento prévio.
+
+Os dados foram enviados por e-mail e devem ser acompanhados em sistema para validação, conferência e correta inserção.
+
+----
+
+h3. *Contexto*
+
+* Arquivo recebido por e-mail
+* Conteúdo: polígonos para input em sistema
+* Ação solicitada: acompanhamento e validação dos dados após inserção
+
+----
+
+h3. *Ações Necessárias*
+
+# Realizar o upload/input dos polígonos no sistema
+# Validar se os dados foram importados corretamente
+# Acompanhar consistência espacial e atributos
+# Confirmar conclusão do processo
+
+----
+
+h3. *Responsável*
+
+Enzo Clemente Dorador Servilheir(a)
+
+----
+
+h3. *Anexos*
+
+* {{area_produtiva_d_2025-12-xx}} _(arquivo recebido por e-mail)_
+
+----
+
+h3. *Critérios de Aceite*
+
+* Polígonos importados sem erros -  ok
+* Arquivos PRJ corresponte a base cartográgica não veio nos arquivos  - reenviado email - 05/01/2025 às 16:15.
+* Validação - NC
+
+Recebido e ajustado data 29/01/2026 às 18:00 - retornado o e-mail ao cliente.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;05/jan/26 4:14 PM;633212a0fedc6169aed6fd7c;3360,;03/fev/26 2:13 PM;633212a0fedc6169aed6fd7c;2400,7200,1440,5760,80%,7200,1440,5760,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@63d67e6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,29/jan/26 6:00 PM,,,,,30/nov/25 8:58 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03j86:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_12923128_*|*_14521_*:*_1_*:*_0,14517_*:*_1_*:*_12923128_*|*_14521_*:*_1_*:*_0,,Itens concluídos,03/fev/26 2:13 PM
+6.700 - Importação de mapas no Hexagon – Operações de Fevereiro,UNF2026-50,168758,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,27/jan/26 2:32 PM,29/jan/26 6:08 PM,,29/jan/26 6:08 PM,,0,"h3. *Descrição*
+
+Solicitação de importação de mapas no sistema *Hexagon* para as operações previstas para o mês de *fevereiro*.
+
+A solicitante questiona a possibilidade de realizar a importação dos mapas para garantir o planejamento e execução das operações do período.
+
+----
+
+h3. *Solicitante*
+
+Mary Helen D. Malgieski
+Silvicultura – Monte Alegre
+Klabin
+
+----
+
+h3. *Anexo*
+
+Arquivo: {{area_produtiva_d_2025-12-2...}}
+(Tamanho aproximado: 6 MB)
+
+----
+
+h3. *Observações*
+
+Nenhuma observação adicional informada no e-mail.
+
+
+
+h3. *Ações:*",,Adenilton Silva,633212a0fedc6169aed6fd7c,;29/jan/26 6:07 PM;633212a0fedc6169aed6fd7c;1200,,7200,6000,1200,16%,7200,6000,1200,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@35d976ee,,,,"Cadastrados os talhões e retornado o e-mail ao cliente.
+
+
+
+Anterior : 19.046 talhões 
+
+Atual: 1.905 talhões 
+
+ ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,29/jan/26 6:10 PM,29/jan/26 5:30 PM,,,,27/jan/26 11:30 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Cadastro e Gestão de Geometrias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03n1c:4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_184502814_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_184502814_*|*_14518_*:*_1_*:*_0,,Itens concluídos,29/jan/26 6:08 PM
+6.700 - Reprocessamento de Fazendas – Base WGS Janeiro/2026 (Smurfit Westrock),UNF2026-31,167448,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,16/jan/26 2:05 PM,23/jan/26 10:34 AM,,23/jan/26 10:34 AM,,0,"h3.  *Descrição*
+
+Utilizar este envio como *modelo padrão* para os próximos compartilhamentos, garantindo consistência na troca de dados e evitando divergências.
+
+Foi disponibilizada em anexo a *base completa atualizada*, considerando:
+
+* Áreas próprias
+* Parceria direta
+* Arrendamento
+
+Solicita-se o *reprocessamento das seguintes fazendas* com base na atualização enviada.
+
+----
+
+h3. 🌱 *Fazendas para Reprocessamento*
+
+* *17 – Prefeitura de Mafra*
+* *55 – Devoivaski*
+* *15 – Engenho do Meio*
+
+----
+
+h3. 📎 *Anexos*
+
+* {{Dados_Janeiro_2026_Final.xls}}
+* {{Base_WGS_Janeiro_SW.zip}}
+
+----
+
+h3. ✅ *Ação Esperada*
+
+* Reprocessar as fazendas listadas utilizando a base WGS atualizada.
+* Garantir alinhamento com a base oficial enviada para evitar divergências futuras.
+
+h3. *Ações:*
+
+Geometrias cadastrdas, haviam duplicatas.
+
+Reprocessados arquivos em um período de 1 mês.
+
+Solicitado treinamento para o cliente executar o processo de reprocessamento dos arquivos.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;23/jan/26 10:32 AM;633212a0fedc6169aed6fd7c;6480,,3600,0,6480,180%,3600,0,6480,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@693959d1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Difícil,,,,,,,,,,,,,,,,,,,,,,,,,,23/jan/26 10:40 AM,23/jan/26 8:00 AM,,,,15/jan/26 11:46 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03l12:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Não,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_592118925,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_592118925,,Itens concluídos,23/jan/26 10:34 AM
+6.700 - Apoio na análise de polígonos não inseridos no display – Cliente WestRock,UNF2026-39,168093,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,22/jan/26 9:44 AM,22/jan/26 10:13 AM,,22/jan/26 10:13 AM,,0,"h3. *Descrição*
+
+A gestora *Gabriela*, colaboradora do cliente *WestRock*, solicitou via grupo de *WhatsApp* um apoio técnico para análise dos *polígonos*, pois os mesmos *não estavam sendo inseridos/disponibilizados no display conforme o esperado*.
+
+Foi solicitado apoio para verificar todo o fluxo, desde o *cadastro/estrutura geométrica* até o *processamento e disponibilização no display*, a fim de identificar a causa do problema e orientar a correção.
+
+----
+
+h3. *Atividades a serem realizadas*
+
+* Analisar os arquivos de polígonos enviados pelo cliente
+* Validar formato, projeção e integridade geométrica
+* Verificar cadastro da base geométrica no sistema
+* Avaliar processamento e sincronização com o display
+* Identificar possíveis inconsistências ou falhas no fluxo
+* Retornar feedback técnico ao cliente com orientações
+
+----
+
+h3. *Cliente*
+
+WestRock
+
+----
+
+h3. *Solicitante*
+
+Gabriela – Gestora do cliente WestRock
+
+----
+
+h3. *Canal de solicitação*
+
+Grupo de WhatsApp
+
+----
+
+h3. *Prioridade*
+
+Média (ajustável conforme impacto operacional)
+
+
+
+h3. *Ações:* 
+
+Testado no display, todos os arquivos foram inserido conforme o padrão esperado.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;22/jan/26 10:13 AM;633212a0fedc6169aed6fd7c;1800,,3600,1800,1800,50%,3600,1800,1800,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@78d48d01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,22/jan/26 10:15 AM,22/jan/26 9:44 AM,,,,22/jan/26 8:30 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - Grupo,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03lxi:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_1739030,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_1739030,,Itens concluídos,22/jan/26 10:13 AM
+6.700 - Ativação CB 151858 + Problemas de versão de fábrica - Berneck,UNF2026-35,167980,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,21/jan/26 2:36 PM,21/jan/26 2:36 PM,,21/jan/26 2:36 PM,,0,"h3. *Descrição*
+
+William Queiroz via e-mail solicitou : 
+
+Solicitação de *ativação do CB 151858* com os seguintes recursos:
+
+* Monitor de máquinas
+* Piloto Automático
+* Barra de luz
+
+Durante as instalações recentes (incluindo máquinas *Plantmax*), foi identificado que diversos equipamentos *não estão vindo ativados de fábrica*, exigindo geração manual de ativações após a instalação em campo.
+
+Esse cenário gera risco operacional quando a instalação é realizada pelo próprio cliente, sem acompanhamento técnico, dificultando a identificação de falhas e atrasando a entrada em operação.
+
+----
+
+h3. *Problemas identificados em versões de fábrica*
+
+Foram observadas inconsistências recorrentes em versões específicas:
+
+h4. 1️⃣ *Versão 4.8.7*
+
+* Alarme: *ROVER GNSS HW sem comunicação*
+* Antena não reconhece o bordo, mesmo estando conectada
+
+h4. 2️⃣ *Incompatibilidade de versões*
+
+* Conflito entre:
+** Versão do CB
+** Driver *3.15.1*
+* Mensagem exibida:
+_“INS (Solução INS não compatível com firmware)”_
+
+----
+
+h3. *Workaround aplicado em campo*
+
+Para normalizar o funcionamento foi necessário:
+
+# Formatar o CB
+# Retroceder a versão do firmware
+# Atualizar o driver
+# Reconfigurar o equipamento
+
+Após esse procedimento, o CB passa a operar normalmente *sem alarmes*.
+
+----
+
+h3. *Impacto*
+
+* Atraso na entrega técnica
+* Risco de instalação incorreta pelo cliente final
+* Aumento de retrabalho e acionamentos de suporte
+* Experiência negativa na ativação inicial do produto
+
+----
+
+h3. *Anexos*
+
+📎 Prints das telas de erro e configuração (em anexo no e-mail original)
+
+----
+
+h3. *Solicitação*
+
+* Ativação do *CB 151858* com os recursos solicitados
+* Avaliação das *versões de fábrica* que estão sendo entregues
+* Verificação de compatibilidade entre firmware do CB e drivers INS/ROVER
+* Alinhamento para que equipamentos vendidos diretamente já saiam *ativados de fábrica*
+
+----
+
+h3. *Ações:*
+
+Atendido via e-mail, enviado a ativação do produto, o técnico precisa solicitar para o seu Gestor abrir uma não conformidade sobre o processo.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;21/jan/26 2:36 PM;633212a0fedc6169aed6fd7c;1020,,3600,2580,1020,28%,3600,2580,1020,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3a662bf0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,20/jan/26 8:00 PM,,,,,20/jan/26 5:00 PM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Não,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E-mail,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03lue:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_10471,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_10471,,Itens concluídos,21/jan/26 2:36 PM
+6.700 - Perímetro não disponível no display (WestRock),UNF2026-25,167083,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,14/jan/26 3:24 PM,14/jan/26 4:14 PM,,14/jan/26 4:14 PM,,0,"h3.  Descrição do problema
+
+A gestora *Gabriela*, colaboradora do cliente *WestRock*, encaminhou arquivos de *perímetro* para análise técnica, relatando dificuldades em campo relacionadas ao *não carregamento/disponibilidade do perímetro no display*.
+
+Segundo o relato, mesmo após o envio e processamento dos arquivos, o perímetro *não fica visível no display*, impossibilitando a correta execução das operações em campo.
+
+h3. 🎯 Objetivo da issue
+
+* Analisar os *arquivos de perímetro enviados*
+* Validar se o *processamento do perímetro está ocorrendo corretamente*
+* Verificar como o perímetro está sendo *interpretado e carregado no display*
+* Identificar possíveis *falhas de conversão, validação ou sincronização*
+* Propor e/ou aplicar *correção* para que o perímetro fique disponível no display
+
+h3. 
+
+h3. Ações.
+
+Ajustado e enviado a Gabriela ás 16:13 de 14/01/2026 .",,Adenilton Silva,633212a0fedc6169aed6fd7c,;14/jan/26 4:14 PM;633212a0fedc6169aed6fd7c;3300,,3600,300,3300,91%,3600,300,3300,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@15bbca07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Médio,,,,,,,,,,,,,,,,,,,,,,,,,,14/jan/26 4:15 PM,14/jan/26 3:20 PM,,,,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - PV,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03kp2:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Talvez,,,,,,,,,,,,,,,,,,,,,14517_*:*_1_*:*_7453_*|*_14518_*:*_1_*:*_0,14517_*:*_1_*:*_7453_*|*_14518_*:*_1_*:*_0,,Itens concluídos,14/jan/26 4:14 PM
+6.700 - Inconsistência no fechamento de talhões – WestRock SC,UNF2026-11,166840,Tarefa,Concluído,UNF2026,2026 - UNIDADE ESTRATÉGICA ,software,Adenilton Silva,633212a0fedc6169aed6fd7c,,Normal,Itens concluídos,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,Adenilton Silva,633212a0fedc6169aed6fd7c,12/jan/26 10:18 AM,13/jan/26 8:38 AM,,12/jan/26 10:19 AM,,0,"h3. Resumo
+
+Inconsistência no fechamento de talhões na plataforma da WestRock SC. A gestora Gabriela reportou que alguns talhões não estavam fechando como esperado.
+
+h3. Contexto
+
+Gabriela, gestora do cliente WestRock SC, comunicou via WhatsApp sobre problemas no fechamento dos talhões. Ela mencionou a existência de um talhão com dois mapas gerados e que a fazenda Odebrecht não tinha o talhão 10 cadastrado.
+
+h3. Critérios de aceitação
+
+* Envio da área diária realizada por cada máquina por parte da Gabriela.
+* Confirmação de que o talhão 10 da fazenda Odebrecht foi cadastrado após o envio das informações atualizadas.
+* Esclarecimento sobre a geração de dois mapas em talhões que operam por mais de 45 dias.
+
+h3. Outras informações
+
+* Foi identificado que o talhão com dois mapas gerados permaneceu em operação por um período superior a 45 dias, conforme regra do sistema.
+* A ausência do talhão 10 estava relacionada à falta de envio prévio da informação.
+* Foi realizado um levantamento que identificou várias inconsistências por parte do cliente, como erro de apontamento de função e erro de manejo com o sistema, reportados via e-mail em 20/01/2026.",,Adenilton Silva,633212a0fedc6169aed6fd7c,;12/jan/26 10:19 AM;633212a0fedc6169aed6fd7c;6180,;13/jan/26 8:38 AM;633212a0fedc6169aed6fd7c;1200,10800,3420,7380,68%,10800,3420,7380,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4339221c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fácil,,,,,,,,,,,,,,,,,,,,,,,,,,13/jan/26 8:40 AM,10/jan/26 1:00 PM,,,,08/jan/26 9:32 AM,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,Sim ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WhatsApp - Grupo,,,,,,Suporte Técnico e Treinamento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i03k6u:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.700,Sim,,,,,,,,,,,,,,,,,,,,,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_62548,14519_*:*_1_*:*_0_*|*_14517_*:*_1_*:*_62548,,Itens concluídos,12/jan/26 10:19 AM
